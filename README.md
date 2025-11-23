@@ -6,7 +6,7 @@
 
 ---
 
-## <div align="center" style="font-size:22px; font-weight:bold;">Hayal Et. Kodla. Güçlendir. Tekrarla.</div>
+## <div align="center" style="font-size:22px; font-weight:bold;">Sadee KODLARIM.</div>
 
 <div align="center" style="max-width: 650px; font-size: 15px; color: #b9c1d1; line-height:1.6;">
 
