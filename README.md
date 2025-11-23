@@ -36,8 +36,7 @@
 
 ---
 
-# 🧠 Hakkımda (Hacker Style Animated)
-
+# 🧠 Hakkımda
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=700&color=18FF00&center=true&vCenter=true&width=700&lines=root@system%3A~%24+cat+about_me.txt;Name%3A+Mehmet+Yasin+Çaldıran;Role%3A+Mobile+%26+Security+Engineer;Skills%3A+Android+Architecture+%7C+Cyber+Security;Expertise%3A+Hilt+%7C+Compose+%7C+MySQL+%7C+API+Security;Interest%3A+Reverse+Engineering+%26+System+Hardening;Motto%3A+Build.+Break.+Improve." />
 </div>
