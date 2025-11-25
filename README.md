@@ -1,187 +1,71 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<title>GitHub Banner</title>
-<link href="https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;700&display=swap" rel="stylesheet">
+<!-- ======================================================= -->
+<!--            CYBERPUNK HYPER-PREMIUM GITHUB README        -->
+<!--             CREATED FOR MEHMET YASİN ÇALDIRAN           -->
+<!-- ======================================================= -->
 
-<style>
-    * {
-        margin: 0;
-        padding: 0;
-        box-sizing: border-box;
-        font-family: "Fira Code", monospace;
-    }
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=2000&pause=800&color=00E7FF&center=true&vCenter=true&width=750&height=90&lines=Mehmet+Yasin+Çaldıran;Computer+Engineer;Mobile+Developer;Cyber+Security+Enthusiast;Welcome+to+My+Tech+Universe!">
+</p>
 
-    body {
-        background: #000;
-        overflow: hidden;
-    }
+<p align="center">
+  <img width="100%" src="https://svg-banners.vercel.app/api?type=glitch&text=CYBERPUNK%20DEVELOPER&width=1200&height=200" />
+</p>
 
-    .banner {
-        position: relative;
-        width: 1920px;
-        height: 600px;
-        background: radial-gradient(circle at center, #0a0f2c, #000);
-        overflow: hidden;
-    }
+<p align="center">
+<img src="https://i.imgur.com/waxVImv.png" width="800">
+</p>
 
-    /* Matrix digital rain */
-    canvas {
-        position: absolute;
-        width: 100%;
-        height: 100%;
-        z-index: 1;
-        opacity: 0.4;
-    }
+# ⚡ ABOUT ME
 
-    /* Floating code fragments */
-    .code {
-        position: absolute;
-        color: #00aaff;
-        font-size: 14px;
-        opacity: 0.6;
-        animation: floatCode 12s linear infinite;
-    }
+> whoami  
+> Name: Mehmet Yasin Çaldıran  
+> Role: Computer Engineering Student @ ISTE  
+> Focus: Flutter / Kotlin / Android / Firebase / ASP.NET / Cyber Security  
+> Style: Clean • Premium • Futuristic • Animations Everywhere  
+> Motto: "Code. Create. Dominate."
 
-    @keyframes floatCode {
-        0% { transform: translateY(600px) rotate(0deg); }
-        100% { transform: translateY(-600px) rotate(720deg); }
-    }
+# 💠 CYBERPUNK TERMINAL HEADER
 
-    /* Hologram glowing UI Panel */
-    .panel {
-        position: absolute;
-        top: 40px;
-        left: 40px;
-        width: 500px;
-        height: 200px;
-        border: 2px solid rgba(0, 170, 255, 0.7);
-        background: rgba(0, 20, 40, 0.4);
-        box-shadow: 0 0 25px #0099ff;
-        border-radius: 10px;
-        backdrop-filter: blur(6px);
-        z-index: 3;
-        animation: glow 3s ease-in-out infinite alternate;
-    }
+┌───────────────────────────────────────────────────────────────┐
+│   SYSTEM STATUS: ONLINE                                        │
+│   ENGINEER:    MEHMET YASIN ÇALDIRAN                           │
+│   CLEARANCE:   LEVEL 7 – QUANTUM ACCESS                        │
+│   NETWORK:     ENCRYPTED | VPN ACTIVE                          │
+│   LOCATION:    ISTE – Computer Engineering                     │
+└───────────────────────────────────────────────────────────────┘
 
-    @keyframes glow {
-        0% { box-shadow: 0 0 20px #0066ff; }
-        100% { box-shadow: 0 0 40px #00aaff; }
-    }
+<p align="center">
+  <img src="https://i.imgur.com/af0E6Mi.gif" width="800">
+</p>
 
-    /* Text typing effect */
-    .typing {
-        color: #00c8ff;
-        font-size: 32px;
-        font-weight: bold;
-        margin: 20px;
-        white-space: nowrap;
-        overflow: hidden;
-        border-right: 2px solid #00c8ff;
-        width: 0;
-        animation: typing 4s steps(40, end) forwards, blink .7s infinite;
-    }
+# 🚀 MY TECH STACK
 
-    @keyframes typing {
-        from { width: 0; }
-        to { width: 460px; }
-    }
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,kotlin,firebase,cs,dotnet,mysql,sqlite,js,ts,html,css,git,github,linux,postman,vscode,visualstudio&perline=10" />
+</p>
 
-    @keyframes blink {
-        0% { border-color: transparent; }
-        50% { border-color: #00c8ff; }
-        100% { border-color: transparent; }
-    }
+# 🔮 ANIMATED STAT PANELS
 
-    .subtitle {
-        color: #9bdcff;
-        font-size: 20px;
-        margin-left: 20px;
-        opacity: 0;
-        animation: fadeIn 4s ease 4s forwards;
-    }
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=MehmetYasinCaldiran&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MehmetYasinCaldiran&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+</p>
 
-    @keyframes fadeIn {
-        to { opacity: 1; }
-    }
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=MehmetYasinCaldiran&theme=tokyonight&hide_border=true&border_radius=5" />
+</p>
 
-    /* Neon Octocat */
-    .octocat {
-        position: absolute;
-        right: 80px;
-        bottom: 50px;
-        width: 260px;
-        filter: drop-shadow(0 0 20px #8e00ff);
-        animation: float 6s ease-in-out infinite;
-        z-index: 3;
-    }
+# 💾 GITHUB ACTIVITY GRAPH
 
-    @keyframes float {
-        0%, 100% { transform: translateY(0); }
-        50% { transform: translateY(-18px); }
-    }
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MehmetYasinCaldiran&theme=react-dark&hide_border=true&area=true">
+</p>
 
-</style>
-</head>
+# 🧬 CYBERPUNK BADGES
 
-<body>
-<div class="banner">
-
-    <!-- Matrix Rain -->
-    <canvas id="matrix"></canvas>
-
-    <!-- Floating code fragments -->
-    <div class="code" style="left: 300px; animation-duration: 14s;">for(int i=0;i<10;i++)</div>
-    <div class="code" style="left: 900px; animation-duration: 11s;">print("Hello World");</div>
-    <div class="code" style="left: 1500px; animation-duration: 13s;">if(user.isAdmin)</div>
-
-    <!-- Hologram Panel -->
-    <div class="panel">
-        <div class="typing">Mehmet Yasin Çaldıran</div>
-        <div class="subtitle">Computer Engineering • Mobile Development • Cyber Security</div>
-    </div>
-
-    <!-- Neon Octocat -->
-    <img class="octocat" src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" />
-
-</div>
-
-<script>
-    // MATRIX RAIN ANIMATION
-    const canvas = document.getElementById("matrix");
-    const ctx = canvas.getContext("2d");
-
-    canvas.width = 1920;
-    canvas.height = 600;
-
-    const letters = "01";
-    const fontSize = 16;
-    const columns = canvas.width / fontSize;
-
-    const drops = Array(Math.floor(columns)).fill(1);
-
-    function drawMatrix() {
-        ctx.fillStyle = "rgba(0, 0, 0, 0.05)";
-        ctx.fillRect(0, 0, canvas.width, canvas.height);
-
-        ctx.fillStyle = "#00ffff";
-        ctx.font = fontSize + "px monospace";
-
-        drops.forEach((y, i) => {
-            const text = letters[Math.floor(Math.random() * letters.length)];
-            ctx.fillText(text, i * fontSize, y * fontSize);
-
-            if (y * fontSize > canvas.height && Math.random() > 0.975) {
-                drops[i] = 0;
-            }
-
-            drops[i]++;
-        });
-    }
-
-    setInterval(drawMatrix, 33);
-</script>
-
-</body>
-</html>
+<p align="center">
+  <img src="https://img.shields.io/badge/Developer-CYBERPUNK-ff00ff?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Futuristic-CODE-00eaff?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Mobile%20Dev-FLUTTER-00bfff?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Security-Enabled-00ffaa?style=for-the-badge" />
+</p>
