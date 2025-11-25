@@ -59,24 +59,25 @@
 
 <br/><br/>
 
-<!-- GITHUB STATS -->
-<h3 align="center" style="color:#c9d1d9; font-family:monospace;">// GITHUB_STATS</h3>
-<br/>
+<!-- GITHUB STATS - PROFESSIONAL CYBERPUNK VERSION -->
+<h3 align="center" style="color:#00aaff; font-family:monospace;">// GITHUB_STATS</h3>
+<br>
 
 <div align="center">
 
-  <!-- CONTRIBUTION GRAPH -->
-  <img src="https://ghchart.rshah.org/FFFFFF/LeOOqq" width="700" />
-  <br/><br/>
+  <!-- Modern Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=LeOOqq&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165"/>
 
-  <!-- TROPHY BAR -->
-  <img src="https://github-profile-trophy.vercel.app/?username=LeOOqq&theme=onestar&no-frame=true&column=6" width="100%" />
-  <br/><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LeOOqq&theme=tokyonight&hide_border=true" height="165"/>
 
-  <!-- CUSTOM STREAK BLOCK -->
-  <table style="border-collapse: collapse; width: 80%; max-width: 800px;">
-    <tr>
+  <br><br>
 
-  </table>
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeOOqq&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="150"/>
+
+</div>
+
+<br>
+
 
 </div>
