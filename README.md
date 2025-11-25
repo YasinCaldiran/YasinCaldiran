@@ -35,7 +35,6 @@
 ## 🚀 Featured Projects
 | Project | Description | Tech |
 |--------|-------------|------|
-| **SuperMarketim App** | Full market automation + admin panel | Flutter, Firebase |
 | **Unlu Mamüller System** | POS, QR order, stok yönetim sistemi | Kotlin + PHP API |
 | **FlyLetter** | Social messaging with animations | Kotlin + Firebase |
 
