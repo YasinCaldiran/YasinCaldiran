@@ -1,7 +1,11 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/LeOOqq/LeOOqq/main/animated_banner.svg" width="100%" />
+</p>
+
 <div align="center">
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&height=100&lines=%3E+sudo+whoami;LeOOqq+(Yasin+Çaldıran);%3E+loading+skills...;Mobile+%26+Security+Engineer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&height=100&lines=%3E+sudo+whoami;MEHMET+YASİN+ÇALDIRAN;%3E+loading+skills...;Mobile+%26+Security+Engineer" alt="Typing SVG" />
   </a>
 
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -83,4 +87,3 @@
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=LeOOqq&hide_border=true&background=0d1117&stroke=ffffff&ring=8b949e&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=8b949e" alt="streak" />
 </div>
-
