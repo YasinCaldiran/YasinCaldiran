@@ -32,16 +32,6 @@
 
 ---
 
-# 📊 GitHub Aktivite Paneli
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LeOOqq&show_icons=true&theme=transparent" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LeOOqq&theme=transparent" height="150"/>
-  <img src="https://komarev.com/ghpvc/?username=LeOOqq&color=blue&style=flat" height="28"/>
-</p>
-
----
-
 ## 🧰 Tech Stack
 
 ### 🚀 Languages & Frameworks
@@ -78,4 +68,15 @@
 ## 🧬 Quote of the Day  
 <p align="center" style="font-size:16px; color:#9da5ff;">
   <i>“Code is never finished — only abandoned.”</i>
+</p>
+
+---
+
+# 📊 GitHub Aktivite Paneli (En Alta)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LeOOqq&show_icons=true&theme=transparent" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LeOOqq&theme=transparent" height="150"/>
+  <br><br>
+  <img src="https://komarev.com/ghpvc/?username=LeOOqq&color=blue&style=flat" height="28"/>
 </p>
