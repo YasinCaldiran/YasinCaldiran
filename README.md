@@ -68,8 +68,8 @@
 # 📊 GitHub Aktivite
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LeOOqq&show_icons=true&theme=transparent" height="300"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LeOOqq&theme=transparent" height="300"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=LeOOqq&show_icons=true&theme=transparent" height="900"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LeOOqq&theme=transparent" height="900"/>
   <br><br>
-  <img src="https://komarev.com/ghpvc/?username=LeOOqq&color=blue&style=flat" height="56"/>
+  <img src="https://komarev.com/ghpvc/?username=LeOOqq&color=blue&style=flat" height="168"/>
 </p>
