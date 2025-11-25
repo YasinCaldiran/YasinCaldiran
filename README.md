@@ -61,24 +61,13 @@
 ## ⚡ GitHub Stats
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=LeOOqq&show_icons=true&theme=radical&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeOOqq&layout=compact&theme=radical&hide_border=true" />
+
+  <!-- FIXED: PROXY + FALLBACK -->
+  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=LeOOqq&show_icons=true&theme=radical&hide_border=true" />
+
+  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=LeOOqq&layout=compact&theme=radical&hide_border=true" />
+
 </div>
-
----
-
-## ⚡ Cyberpunk Terminal Animation
-
-```
-> initializing...
-> loading developer profile...
-> status: ACTIVE
-> access level: ROOT
-> device: ANDROID_UNIT_07
-> compiling user interface... done.
-> deploying skills... done.
-> starting neon engine... ✓
-```
 
 ---
 
