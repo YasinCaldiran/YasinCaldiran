@@ -57,12 +57,19 @@
 
 ## 📫 Contact
 <p align="center">
+
+  <a href="https://instagram.com/LeOOqq" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-333333?style=for-the-badge&logo=instagram" />
+  </a>
+
   <a href="mailto:leooqofficial@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail" />
   </a>
-  <a href="https://t.me/LeOOqq">
-    <img src="https://img.shields.io/badge/Telegram-333333?style=for-the-badge&logo=telegram" />
+
+  <a href="https://www.linkedin.com/in/leooq" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-333333?style=for-the-badge&logo=linkedin" />
   </a>
+
 </p>
 
 ---
