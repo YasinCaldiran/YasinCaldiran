@@ -1,7 +1,5 @@
 <!-- HEADER -->
-<p align="center">
-  <h1 align="center" style="font-weight:900;">H</h1>
-</p>
+<h1 align="center">H</h1>
 
 <p align="center">
   🎓 <b>İskenderun Teknik Üniversitesi Bilgisayar Mühendisliği öğrencisiyim.</b><br/>
