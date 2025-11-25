@@ -58,15 +58,15 @@
 ## 📫 Contact
 <p align="center">
 
-  <a href="https://instagram.com/LeOOqq" target="_blank">
+  <a href="https://www.instagram.com/yasin.cldrn/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-333333?style=for-the-badge&logo=instagram" />
   </a>
 
-  <a href="mailto:leooqofficial@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail" />
+  <a href="mailto:mcaldiran.mdbf24@iste.edu.tr">
+    <img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail" />
   </a>
 
-  <a href="https://www.linkedin.com/in/leooq" target="_blank">
+  <a href="https://www.linkedin.com/in/mehmet-yasin-%C3%A7ald%C4%B1ran-26a948332/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-333333?style=for-the-badge&logo=linkedin" />
   </a>
 
