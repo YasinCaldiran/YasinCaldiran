@@ -1,86 +1,97 @@
-<!-- ANIMATED HEADER -->
+<!-- ANIMATED CYBERPUNK HEADER -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/LeOOqq/LeOOqq/main/animated_banner.svg" width="100%"/>
+  <img src="https://raw.githubusercontent.com/LeOOqq/LeOOqq/main/animated_banner.svg" width="100%" />
 </p>
-
-<h1 align="center" style="font-weight:900; font-family:monospace;">
-  MEHMET YASİN ÇALDIRAN
-</h1>
-
-<p align="center" style="font-family:monospace; color:#9da5b4; font-size:16px;">
-  Mobile Developer • Security Engineer • ISTE CE
-</p>
-
-<br>
-
-<p align="center" style="font-family:monospace; color:#8b949e; max-width:600px; line-height:1.6;">
-  Karanlık modda yaşayan, terminalden çıkmayan bir <b>Bilgisayar Mühendisliği</b> öğrencisiyim.  
-  2023'te <code>Hello World</code> dedim, şimdi ise <b>Sistem Güvenliği</b> ve <b>Mobil Mimariler</b> üzerinde yoğunlaşıyorum.  
-  <i>"Kodla, Güvenliğini Sağla, Dağıt."</i>
-</p>
-
-<br>
-
-<!-- SOCIAL BUTTONS -->
-<p align="center">
-  <a href="https://github.com/LeOOqq"><img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/mehmet-yasin-çaldıran-26a948332"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:mcaldiran.mdbf24@iste.edu.tr"><img src="https://img.shields.io/badge/EDU%20MAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="mailto:reallhyperr1274@gmail.com"><img src="https://img.shields.io/badge/MAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
-
-<br><br>
-
-<!-- TECH STACK -->
-<h2 align="center" style="color:#00aaff; font-family:monospace;">// TECH_STACK</h2>
-<br>
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="120">
-        <img src="https://skillicons.dev/icons?i=kotlin&theme=dark" width="50"/><br>
-        <code style="color:#8b949e;">Kotlin</code>
-      </td>
-
-      <td align="center" width="120">
-        <img src="https://skillicons.dev/icons?i=flutter&theme=dark" width="50"/><br>
-        <code style="color:#8b949e;">Flutter</code>
-      </td>
-
-      <td align="center" width="120">
-        <img src="https://skillicons.dev/icons?i=firebase&theme=dark" width="50"/><br>
-        <code style="color:#8b949e;">Firebase</code>
-      </td>
-
-      <td align="center" width="120">
-        <img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="50"/><br>
-        <code style="color:#8b949e;">MySQL</code>
-      </td>
-
-      <td align="center" width="120">
-        <img src="https://skillicons.dev/icons?i=linux&theme=dark" width="50"/><br>
-        <code style="color:#8b949e;">Linux</code>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br><br>
-
-<!-- GITHUB STATS -->
-<h2 align="center" style="color:#00aaff; font-family:monospace;">// GITHUB_STATS</h2>
-<br>
 
 <div align="center">
 
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=LeOOqq&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=LeOOqq&theme=tokyonight&hide_border=true"/>
+  <!-- TYPING NAME -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=900&color=00E5FF&center=true&vCenter=true&width=800&height=80&lines=%3E+LeOOqq;Android+Developer;Mobile+%26+Security+Engineer;Cyberpunk+Terminal+Mode" />
+  </a>
 
-  <br><br>
-
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeOOqq&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+  <!-- NEON LINE -->
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 </div>
 
-<br><br><br>
+---
+
+## <p align="center">⚡ About Me ⚡</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Role-Android%20Developer-00e5ff?style=for-the-badge&logo=android" />
+  <img src="https://img.shields.io/badge/Focus-Mobile%20Apps-8e24aa?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Security-Ethical%20Mind-00bcd4?style=for-the-badge" />
+</p>
+
+<p align="center" style="max-width:700px; font-size:15px; color:#b5c6ff; line-height:1.6;">
+  ⭐ Hey! I'm <b>LeOOqq (Mehmet Yasin Çaldıran)</b>, a Computer Engineering student & Android developer.<br>
+  🧠 Cyberpunk terminal ruhlu, Android mimarilerine aşık bir geliştiriciyim.<br>
+  🔥 Kotlin, Flutter, Firebase, Security, API Design, Architecture: MVP • MVVM • Clean.<br>
+  🎯 Kod yazarken amaç: <b>minimal – hızlı – temiz – ölçeklenebilir</b>.
+</p>
+
+---
+
+## 🧰 Tech Stack (My Tools)
+
+### 🚀 Languages & Frameworks
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=kotlin,java,flutter,dart,ts,js,python,cs" />
+</p>
+
+### 📱 Mobile
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=androidstudio,firebase" />
+</p>
+
+### 🛠 Backend & Database
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,sqlite,postman" />
+</p>
+
+### ⚙ Tools & Others
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,figma" />
+</p>
+
+---
+
+## ⚡ GitHub Stats
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=LeOOqq&show_icons=true&theme=radical&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeOOqq&layout=compact&theme=radical&hide_border=true" />
+</div>
+
+---
+
+## ⚡ Cyberpunk Terminal Animation
+
+```
+> initializing...
+> loading developer profile...
+> status: ACTIVE
+> access level: ROOT
+> device: ANDROID_UNIT_07
+> compiling user interface... done.
+> deploying skills... done.
+> starting neon engine... ✓
+```
+
+---
+
+## 📡 Connect With Me  
+<p align="center">
+  <a href="https://github.com/LeOOqq"><img src="https://skillicons.dev/icons?i=github" width="40px"></a>
+  <a href="mailto:example@mail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40px"></a>
+  <a href="https://www.instagram.com/"><img src="https://skillicons.dev/icons?i=instagram" width="40px"></a>
+</p>
+
+---
+
+## 🧬 Quote of the Day  
+<p align="center" style="font-size:16px; color:#9da5ff;">
+  <i>“Code is never finished — only abandoned.”</i>
+</p>
