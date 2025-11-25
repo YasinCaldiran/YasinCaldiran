@@ -74,6 +74,4 @@
 
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/LeOOqq/LeOOqq/main/footer.svg" width="100%" />
-</p>
+
