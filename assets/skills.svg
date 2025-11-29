@@ -1,0 +1,110 @@
+<svg fill="none" viewBox="0 0 800 200" width="800" height="200" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        @import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@500&amp;display=swap');
+        
+        .container {
+          width: 100%;
+          height: 100%;
+          background: #050505;
+          display: flex;
+          justify-content: space-around;
+          align-items: center;
+          font-family: 'Orbitron', sans-serif;
+        }
+
+        .skill-box {
+          text-align: center;
+          position: relative;
+        }
+
+        .circle {
+          width: 100px;
+          height: 100px;
+          border-radius: 50%;
+          border: 5px solid #333;
+          position: relative;
+          display: flex;
+          justify-content: center;
+          align-items: center;
+          box-shadow: 0 0 15px rgba(0,0,0,0.5);
+        }
+
+        .circle::before {
+          content: '';
+          position: absolute;
+          top: -5px;
+          left: -5px;
+          width: 100px;
+          height: 100px;
+          border-radius: 50%;
+          border: 5px solid transparent;
+          border-top-color: var(--color);
+          animation: spin 2s linear infinite;
+        }
+
+        .circle::after {
+          content: '';
+          position: absolute;
+          top: -5px;
+          left: -5px;
+          width: 100px;
+          height: 100px;
+          border-radius: 50%;
+          border: 5px solid transparent;
+          border-bottom-color: var(--color);
+          animation: spin 3s linear infinite reverse;
+        }
+
+        @keyframes spin {
+          0% { transform: rotate(0deg); }
+          100% { transform: rotate(360deg); }
+        }
+
+        .icon {
+          font-size: 24px;
+          color: white;
+          z-index: 10;
+        }
+
+        .label {
+          margin-top: 15px;
+          color: var(--color);
+          font-size: 14px;
+          text-shadow: 0 0 5px var(--color);
+        }
+
+      </style>
+      <div class="container">
+        <div class="skill-box" style="--color: #00f3ff;">
+          <div class="circle">
+            <div class="icon">FLUTTER</div>
+          </div>
+          <div class="label">MOBILE DEV</div>
+        </div>
+
+        <div class="skill-box" style="--color: #ff00ff;">
+          <div class="circle">
+            <div class="icon">SEC</div>
+          </div>
+          <div class="label">CYBER SECURITY</div>
+        </div>
+
+        <div class="skill-box" style="--color: #0aff0a;">
+          <div class="circle">
+            <div class="icon">BACK</div>
+          </div>
+          <div class="label">BACKEND</div>
+        </div>
+
+        <div class="skill-box" style="--color: #ffee00;">
+          <div class="circle">
+            <div class="icon">UI/UX</div>
+          </div>
+          <div class="label">DESIGN</div>
+        </div>
+      </div>
+    </div>
+  </foreignObject>
+</svg>

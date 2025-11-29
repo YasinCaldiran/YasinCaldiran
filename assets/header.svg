@@ -1,0 +1,160 @@
+<svg fill="none" viewBox="0 0 800 400" width="800" height="400" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        @import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700;900&amp;display=swap');
+        
+        :root {
+          --neon-cyan: #00f3ff;
+          --neon-pink: #ff00ff;
+          --neon-yellow: #ffee00;
+          --bg-color: #050505;
+        }
+
+        .container {
+          width: 100%;
+          height: 100%;
+          background-color: var(--bg-color);
+          background-image: 
+            linear-gradient(rgba(0, 243, 255, 0.1) 1px, transparent 1px),
+            linear-gradient(90deg, rgba(0, 243, 255, 0.1) 1px, transparent 1px);
+          background-size: 20px 20px;
+          display: flex;
+          flex-direction: column;
+          justify-content: center;
+          align-items: center;
+          font-family: 'Orbitron', sans-serif;
+          position: relative;
+          overflow: hidden;
+          border: 2px solid var(--neon-cyan);
+          box-sizing: border-box;
+        }
+
+        /* GLITCH TEXT */
+        .glitch {
+          font-size: 60px;
+          font-weight: 900;
+          color: white;
+          position: relative;
+          text-shadow: 2px 2px var(--neon-pink), -2px -2px var(--neon-cyan);
+          animation: glitch 1s infinite;
+        }
+
+        .glitch::before, .glitch::after {
+          content: attr(data-text);
+          position: absolute;
+          top: 0;
+          left: 0;
+          width: 100%;
+          height: 100%;
+        }
+
+        .glitch::before {
+          left: 2px;
+          text-shadow: -1px 0 var(--neon-pink);
+          clip: rect(44px, 450px, 56px, 0);
+          animation: glitch-anim 5s infinite linear alternate-reverse;
+        }
+
+        .glitch::after {
+          left: -2px;
+          text-shadow: -1px 0 var(--neon-cyan);
+          clip: rect(44px, 450px, 56px, 0);
+          animation: glitch-anim2 5s infinite linear alternate-reverse;
+        }
+
+        @keyframes glitch {
+          0% { transform: translate(0) }
+          20% { transform: translate(-2px, 2px) }
+          40% { transform: translate(-2px, -2px) }
+          60% { transform: translate(2px, 2px) }
+          80% { transform: translate(2px, -2px) }
+          100% { transform: translate(0) }
+        }
+
+        @keyframes glitch-anim {
+          0% { clip: rect(10px, 9999px, 30px, 0); }
+          20% { clip: rect(80px, 9999px, 100px, 0); }
+          40% { clip: rect(30px, 9999px, 50px, 0); }
+          60% { clip: rect(60px, 9999px, 80px, 0); }
+          80% { clip: rect(20px, 9999px, 40px, 0); }
+          100% { clip: rect(50px, 9999px, 70px, 0); }
+        }
+
+        @keyframes glitch-anim2 {
+          0% { clip: rect(60px, 9999px, 80px, 0); }
+          20% { clip: rect(20px, 9999px, 40px, 0); }
+          40% { clip: rect(50px, 9999px, 70px, 0); }
+          60% { clip: rect(10px, 9999px, 30px, 0); }
+          80% { clip: rect(80px, 9999px, 100px, 0); }
+          100% { clip: rect(30px, 9999px, 50px, 0); }
+        }
+
+        /* SUBTITLE */
+        .subtitle {
+          font-size: 20px;
+          color: var(--neon-cyan);
+          letter-spacing: 5px;
+          margin-top: 10px;
+          background: rgba(0,0,0,0.7);
+          padding: 5px 15px;
+          border: 1px solid var(--neon-cyan);
+          box-shadow: 0 0 10px var(--neon-cyan);
+        }
+
+        /* DECORATIONS */
+        .scanline {
+          width: 100%;
+          height: 100px;
+          z-index: 10;
+          background: linear-gradient(0deg, rgba(0,0,0,0) 0%, rgba(255, 255, 255, 0.2) 50%, rgba(0,0,0,0) 100%);
+          opacity: 0.1;
+          position: absolute;
+          bottom: 100%;
+          animation: scanline 10s linear infinite;
+        }
+
+        @keyframes scanline {
+          0% { bottom: 100%; }
+          100% { bottom: -100%; }
+        }
+
+        .corner {
+          position: absolute;
+          width: 30px;
+          height: 30px;
+          border: 3px solid var(--neon-pink);
+        }
+        .tl { top: 10px; left: 10px; border-right: none; border-bottom: none; }
+        .tr { top: 10px; right: 10px; border-left: none; border-bottom: none; }
+        .bl { bottom: 10px; left: 10px; border-right: none; border-top: none; }
+        .br { bottom: 10px; right: 10px; border-left: none; border-top: none; }
+
+        .status {
+          position: absolute;
+          bottom: 20px;
+          right: 20px;
+          font-size: 12px;
+          color: var(--neon-yellow);
+        }
+        
+        .blink { animation: blink 1s infinite; }
+        @keyframes blink { 50% { opacity: 0; } }
+
+      </style>
+      <div class="container">
+        <div class="scanline"></div>
+        <div class="corner tl"></div>
+        <div class="corner tr"></div>
+        <div class="corner bl"></div>
+        <div class="corner br"></div>
+        
+        <div class="glitch" data-text="LeOOqq">LeOOqq</div>
+        <div class="subtitle">MEHMET YASIN ÇALDIRAN</div>
+        <div class="subtitle" style="font-size: 14px; margin-top: 5px; color: var(--neon-pink);">MOBILE &amp; SECURITY ENGINEER</div>
+
+        <div class="status">SYSTEM STATUS: <span class="blink">ONLINE</span></div>
+      </div>
+    </div>
+  </foreignObject>
+</svg>
