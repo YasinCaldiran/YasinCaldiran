@@ -1,31 +1,31 @@
 <div align="center">
-  <img src="assets/header.svg" width="100%" />
+  <img src="assets/header_3d_animated.svg" width="100%" />
 </div>
 
 <div align="center">
-  <img src="assets/divider.svg" width="100%" />
+  <img src="assets/separator_laser.svg" width="100%" />
 </div>
 
 <div align="center">
-  <img src="assets/social.svg" width="100%" />
+  <img src="assets/social_panel.svg" width="100%" />
 </div>
 
 <div align="center">
-  <img src="assets/about.svg" width="100%" />
+  <img src="assets/about_me_hologram.svg" width="100%" />
 </div>
 
 <div align="center">
-  <img src="assets/divider.svg" width="100%" />
+  <img src="assets/separator_laser.svg" width="100%" />
 </div>
 
 <div align="center">
-  <img src="assets/skills.svg" width="100%" />
+  <img src="assets/skills_panel_full.svg" width="100%" />
 </div>
 
 <div align="center">
-  <img src="assets/terminal.svg" width="100%" />
+  <img src="assets/terminal_3d.svg" width="100%" />
 </div>
 
 <div align="center">
-  <img src="assets/footer.svg" width="100%" />
+  <img src="assets/footer_end_of_line.svg" width="100%" />
 </div>
