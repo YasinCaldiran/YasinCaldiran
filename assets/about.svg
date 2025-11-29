@@ -138,7 +138,7 @@
             </div>
             <div class="row">
               <div class="label">AGE</div>
-              <div class="value">24</div>
+              <div class="value">20</div>
             </div>
             <div class="row">
               <div class="label">LOCATION</div>
@@ -154,3 +154,4 @@
     </div>
   </foreignObject>
 </svg>
+
