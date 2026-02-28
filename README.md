@@ -1,75 +1,85 @@
+<!-- ====== PROFILE README (render-friendly) ====== -->
 <div align="center">
-    <img src="https://i.imgur.com/1ZvVkDc.gif" width="80px">
 
-    <br />
+  <h1>👋 Hi, I'm YOUR_NAME</h1>
+  <p><b>💻 Full-stack minded • ⚙️ Backend & Frontend • 🧠 Algorithms • 🗄️ Databases • 🔒 Security-aware</b></p>
 
-    <img
-        src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=36&duration=3000&pause=1000&color=00E0FF&center=true&vCenter=true&width=800&height=80&lines=MEHMET+YAS%C4%B0N+%C3%87ALDIRAN;CYBERPUNK+DEVELOPER;FULL+STACK+ENGINEER;MOBIL+%2B+WEB+DEVELOPER;S%C4%B0BER+G%C3%9CVENL%C4%B0K+UZMANI" />
+  <!-- Typing effect (renders as image, not raw code) -->
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=800&center=true&vCenter=true&width=700&lines=Building+projects+with+clean+architecture;Learning+every+day+%F0%9F%8C%B1;Backend+%2B+Frontend+%2B+Databases;Focus%3A+Scalable+and+secure+systems"
+    alt="Typing SVG"
+  />
 
-    <br />
+  <br/><br/>
 
-    <img
-        src="https://img.shields.io/badge/SYSTEM%20STATUS-ONLINE-00E0FF?style=for-the-badge&logoColor=white&labelColor=000000&color=00E0FF">
-    <img
-        src="https://img.shields.io/badge/NEON%20ENGINE-ENABLED-BC13FE?style=for-the-badge&labelColor=000000&color=BC13FE">
-    <img
-        src="https://img.shields.io/badge/SECURITY%20LEVEL-MAXIMUM-FF0055?style=for-the-badge&labelColor=000000&color=FF0055">
+  <!-- Badges -->
+  <a href="https://github.com/YOUR_GITHUB_USERNAME?tab=repositories">
+    <img src="https://img.shields.io/badge/Repos-Explore-111?style=for-the-badge" alt="repos"/>
+  </a>
+  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+    <img src="https://img.shields.io/badge/Profile-Visit-111?style=for-the-badge" alt="profile"/>
+  </a>
+  <a href="mailto:YOUR_EMAIL@example.com">
+    <img src="https://img.shields.io/badge/Email-Contact-111?style=for-the-badge" alt="email"/>
+  </a>
+
 </div>
 
-<p align="center">
-    <img src="https://i.imgur.com/waxVImv.png" width="100%">
-</p>
+---
 
-### 🌌 `> WHOAMI`
-Geleceğin teknolojilerini bugünden inşa eden, yenilikçi ve siber güvenlik odaklı bir sistem mimarı ve tam yığın
-geliştiriciyim. Karanlık temalar, neon ışıklar ve kusursuz kod mimarileri içinde kaybolmayı severim. Yazılım geliştirme
-sürecini bir sanat eseri yaratmak gibi görüyorum.
+## 🧩 About
+- 🚀 Building real projects and improving fundamentals
+- 🧠 Interested in system design, clean code, and problem solving
+- 🔒 Security mindset (best practices, safe defaults)
+- 📌 Goal: ship useful software & learn fast
 
-<p align="center">
-    <img src="https://i.imgur.com/waxVImv.png" width="100%">
-</p>
+---
 
-### 🚀 `> TECH_STACK`
-
+## 🛠️ Tech Stack
 <div align="center">
-    <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,c&theme=dark" />
-        <br />
-        <br />
-        <img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxtjs,tailwind,html,css&theme=dark" />
-        <br />
-        <br />
-        <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,mysql,firebase&theme=dark" />
-        <br />
-        <br />
-        <img src="https://skillicons.dev/icons?i=flutter,dart,git,github,docker,linux,nginx&theme=dark" />
-    </a>
+
+  <!-- Skill icons (renders nicely) -->
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,cpp,c,java,python,js,ts,html,css,react,vue,nodejs,express,mysql,postgres,mongodb,firebase,git,github,docker,linux,nginx&perline=11" />
 </div>
 
-<p align="center">
-    <img src="https://i.imgur.com/waxVImv.png" width="100%">
-</p>
+---
 
-### 📊 `> SYSTEM_STATS`
+## 📌 Featured Projects
+<!-- Replace with your best repos -->
+- 🔥 **Project 1** — short one-line description  
+  👉 https://github.com/YOUR_GITHUB_USERNAME/REPO1
+- ⚡ **Project 2** — short one-line description  
+  👉 https://github.com/YOUR_GITHUB_USERNAME/REPO2
+- 🧠 **Project 3** — short one-line description  
+  👉 https://github.com/YOUR_GITHUB_USERNAME/REPO3
 
+---
+
+## 📊 GitHub Stats
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=ysncldrn&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E0FF&icon_color=BC13FE&text_color=A9B2C3"
-        height="192px" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ysncldrn&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E0FF&text_color=A9B2C3"
-        height="192px" />
+
+  <img height="160"
+    src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&rank_icon=github"
+    alt="stats"
+  />
+
+  <img height="160"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true"
+    alt="top langs"
+  />
+
 </div>
 
-<p align="center">
-    <br />
-    <img
-        src="https://github-readme-streak-stats.herokuapp.com/?user=ysncldrn&theme=tokyonight&hide_border=true&background=0D1117&ring=00E0FF&fire=BC13FE&currStreakLabel=00E0FF" />
-</p>
+<div align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_GITHUB_USERNAME&hide_border=true"
+    alt="streak"
+  />
+</div>
 
-<p align="center">
-    <img src="https://i.imgur.com/waxVImv.png" width="100%">
-</p>
+---
 
-<!-- MATRIX PARTICLE EFFECT -->
-<p align="center">
-    <img src="https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif" width="100%">
-</p>
+## 🤝 Connect
+- 💼 LinkedIn: https://linkedin.com/in/YOUR_LINK
+- 🌐 Website: https://your-site.com
+- ✉️ Mail: YOUR_EMAIL@example.com
