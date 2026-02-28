@@ -1,85 +1,112 @@
-<!-- ====== PROFILE README (render-friendly) ====== -->
 <div align="center">
 
-  <h1>👋 Hi, I'm YOUR_NAME</h1>
-  <p><b>💻 Full-stack minded • ⚙️ Backend & Frontend • 🧠 Algorithms • 🗄️ Databases • 🔒 Security-aware</b></p>
+    <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00E0FF&center=true&vCenter=true&width=800&lines=👋+Hello,+I+am+Mehmet+Yasin+%C3%87ald%C4%B1ran;Cyberpunk+Developer;Full+Stack+Engineer;Cyber+Security+Enthusiast"
+            alt="Typing SVG" />
+    </a>
 
-  <!-- Typing effect (renders as image, not raw code) -->
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=800&center=true&vCenter=true&width=700&lines=Building+projects+with+clean+architecture;Learning+every+day+%F0%9F%8C%B1;Backend+%2B+Frontend+%2B+Databases;Focus%3A+Scalable+and+secure+systems"
-    alt="Typing SVG"
-  />
+    <p align="center" style="font-size: 15px;">
+        Geleceğin teknolojilerini bugünden inşa eden, yenilikçi ve siber güvenlik odaklı bir Sistem Mimarı ve Tam Yığın
+        Geliştiriciyim.<br>Karanlık temalar, neon ışıklar ve kusursuz kod mimarileri içinde kaybolmayı, kod yazmayı bir
+        sanat eseri yaratmak gibi görüyorum.
+    </p>
 
-  <br/><br/>
+    <p align="center">
+        <img
+            src="https://img.shields.io/badge/Developer-Full_Stack-00E0FF?style=flat&logo=codeigniter&logoColor=white" />
+        <img
+            src="https://img.shields.io/badge/Security-Cyber_Security-BC13FE?style=flat&logo=kalilinux&logoColor=white" />
+        <img
+            src="https://img.shields.io/badge/University-İskenderun_Technical-00E0FF?style=flat&logo=google-scholar&logoColor=white" />
+    </p>
 
-  <!-- Badges -->
-  <a href="https://github.com/YOUR_GITHUB_USERNAME?tab=repositories">
-    <img src="https://img.shields.io/badge/Repos-Explore-111?style=for-the-badge" alt="repos"/>
-  </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://img.shields.io/badge/Profile-Visit-111?style=for-the-badge" alt="profile"/>
-  </a>
-  <a href="mailto:YOUR_EMAIL@example.com">
-    <img src="https://img.shields.io/badge/Email-Contact-111?style=for-the-badge" alt="email"/>
-  </a>
+    <p align="center">
+        <a href="https://www.linkedin.com/in/mehmet-yasin-çaldıran" target="_blank">
+            <img src="https://img.shields.io/badge/LinkedIn-Profile-1b1f23?style=flat&logo=linkedin&logoColor=white" />
+        </a>
+        <a href="https://instagram.com/yasin.cldrn/" target="_blank">
+            <img
+                src="https://img.shields.io/badge/Instagram-Profile-1b1f23?style=flat&logo=instagram&logoColor=white" />
+        </a>
+    </p>
 
 </div>
 
----
-
-## 🧩 About
-- 🚀 Building real projects and improving fundamentals
-- 🧠 Interested in system design, clean code, and problem solving
-- 🔒 Security mindset (best practices, safe defaults)
-- 📌 Goal: ship useful software & learn fast
-
----
-
-## 🛠️ Tech Stack
-<div align="center">
-
-  <!-- Skill icons (renders nicely) -->
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,cpp,c,java,python,js,ts,html,css,react,vue,nodejs,express,mysql,postgres,mongodb,firebase,git,github,docker,linux,nginx&perline=11" />
+<h2 align="center">💻 Core Focus & Philosophy</h2>
+<div align="center" style="font-family: 'Fira Code', monospace;">
+    <code>🛡️ Cyber Security Tools & Tactics</code> &nbsp;•&nbsp; <code>⚙️ Scalable Backend/Frontend Architecture</code>
+    &nbsp;•&nbsp; <code>📱 Mobile App Development</code>
 </div>
 
----
+<br />
 
-## 📌 Featured Projects
-<!-- Replace with your best repos -->
-- 🔥 **Project 1** — short one-line description  
-  👉 https://github.com/YOUR_GITHUB_USERNAME/REPO1
-- ⚡ **Project 2** — short one-line description  
-  👉 https://github.com/YOUR_GITHUB_USERNAME/REPO2
-- 🧠 **Project 3** — short one-line description  
-  👉 https://github.com/YOUR_GITHUB_USERNAME/REPO3
+<h2 align="center">🛠️ Technical Expertise & Tools</h2>
 
----
-
-## 📊 GitHub Stats
 <div align="center">
+    <table style="border-collapse: collapse; border: none;">
 
-  <img height="160"
-    src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&rank_icon=github"
-    alt="stats"
-  />
+        <tr style="border: none;">
+            <td width="200" style="text-align: right; padding-right: 20px; border: none;"><b>Programming Languages</b>
+            </td>
+            <td style="text-align: left; border: none;">
+                <a href="https://skillicons.dev">
+                    <img src="https://skillicons.dev/icons?i=ts,js,python,java,cpp,c" />
+                </a>
+            </td>
+        </tr>
 
-  <img height="160"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true"
-    alt="top langs"
-  />
+        <tr style="border: none;">
+            <td width="200" style="text-align: right; padding-right: 20px; border: none;"><b>Web & Mobile</b></td>
+            <td style="text-align: left; border: none;">
+                <a href="https://skillicons.dev">
+                    <img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxtjs,tailwind,flutter,dart" />
+                </a>
+            </td>
+        </tr>
 
+        <tr style="border: none;">
+            <td width="200" style="text-align: right; padding-right: 20px; border: none;"><b>Backend & Databases</b>
+            </td>
+            <td style="text-align: left; border: none;">
+                <a href="https://skillicons.dev">
+                    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,mysql,firebase" />
+                </a>
+            </td>
+        </tr>
+
+        <tr style="border: none;">
+            <td width="200" style="text-align: right; padding-right: 20px; border: none;"><b>System & DevOps</b></td>
+            <td style="text-align: left; border: none;">
+                <a href="https://skillicons.dev">
+                    <img src="https://skillicons.dev/icons?i=linux,kali,docker,nginx,git,github" />
+                </a>
+            </td>
+        </tr>
+
+    </table>
+</div>
+
+<br />
+
+<h2 align="center">📊 GitHub Stats</h2>
+
+<div align="center">
+    <img src="https://github-readme-stats-rickstaa.vercel.app/api?username=yasincaldiran&show_icons=true&theme=transparent&hide_border=true&title_color=00E0FF&text_color=8b949e&icon_color=BC13FE&locale=en"
+        height="150" alt="stats" />
+
+    <img src="https://github-readme-stats-rickstaa.vercel.app/api/top-langs/?username=yasincaldiran&layout=compact&theme=transparent&hide_border=true&title_color=00E0FF&text_color=8b949e&icon_color=BC13FE&locale=en"
+        height="150" alt="languages" />
 </div>
 
 <div align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_GITHUB_USERNAME&hide_border=true"
-    alt="streak"
-  />
+    <br />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=yasincaldiran&bg_color=00000000&color=00E0FF&line=00E0FF&point=FFFFFF&hide_border=true"
+        height="250" alt="activity-graph" />
 </div>
 
----
+<br />
 
-## 🤝 Connect
-- 💼 LinkedIn: https://linkedin.com/in/YOUR_LINK
-- 🌐 Website: https://your-site.com
-- ✉️ Mail: YOUR_EMAIL@example.com
+<div align="center">
+    <img src="https://komarev.com/ghpvc/?username=yasincaldiran&style=flat&color=00E0FF&label=Profile+Views"
+        alt="views" />
+</div>
