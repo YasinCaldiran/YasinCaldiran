@@ -44,7 +44,7 @@
 
 ---
 
-## 🛠️ Tech Stack (Classified — SVG Only)
+## 🛠️ Tech Stack 
 
 <div align="center">
 
@@ -59,6 +59,15 @@
 | 🐧 **OS** | <img src="https://skillicons.dev/icons?i=linux&perline=10" alt="os" /> |
 
 </div>
+## 📈 Activity (Line Graph)
+
+<div align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=YasinCaldiran&bg_color=0d1117&color=8b949e&line=22c55e&point=0ea5e9&hide_border=true"
+    height="260"
+    alt="activity graph"
+  />
+</div>
 
 ---
 
@@ -68,3 +77,4 @@
     alt="views"
   />
 </div>
+
