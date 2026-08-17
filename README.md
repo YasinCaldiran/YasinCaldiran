@@ -1,79 +1,97 @@
+<!-- ========================================================= -->
+<!--                    MEHMET YASIN ÇALDIRAN                   -->
+<!-- ========================================================= -->
+
 <div align="center">
 
+<img
+  width="100%"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:14b8a6,100:22c55e&height=220&section=header&text=Mehmet%20Yasin%20%C3%87ald%C4%B1ran&fontSize=45&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=Computer%20Engineering%20Student%20%7C%20Developer&descSize=17&descAlignY=55"
+/>
+
+<br/>
+
+<a href="https://git.io/typing-svg">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:22c55e&height=190&section=header&text=Mehmet%20Yasin%20%C3%87ald%C4%B1ran&fontSize=44&fontColor=ffffff&animation=fadeIn&desc=2nd%20Year%20Computer%20Engineering%20Student&descSize=16&descAlignY=72"
-    alt="header"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=2800&pause=900&color=22C55E&center=true&vCenter=true&width=700&lines=Computer+Engineering+Student;Full-Stack+Developer;Backend+%26+System+Design+Enthusiast;Building+Clean+%26+Scalable+Software;Dream+%E2%86%92+Code+%E2%86%92+Refactor+%E2%86%92+Repeat"
+    alt="Typing SVG"
   />
+</a>
 
-  <h3>🚀 Dream → Code → Repeat</h3>
+<br/><br/>
 
-  <p>
-    <b>Backend • Frontend • Databases</b><br/>
-    Algorithms • OOP • System Design
-  </p>
+<p>
+  <b>Backend Development</b>
+  &nbsp;•&nbsp;
+  <b>Frontend Development</b>
+  &nbsp;•&nbsp;
+  <b>Databases</b>
+  &nbsp;•&nbsp;
+  <b>System Design</b>
+</p>
 
-  <a href="https://yasincaldiran.com" target="_blank">
-    <img src="https://img.shields.io/badge/Website-yasincaldiran.com-111?style=for-the-badge&logo=google-chrome&logoColor=white" alt="website"/>
-  </a>
-  <a href="https://www.linkedin.com/in/ysncldrn/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-ysncldrn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
-  </a>
-  <a href="https://github.com/YasinCaldiran" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-YasinCaldiran-111?style=for-the-badge&logo=github&logoColor=white" alt="github"/>
-  </a>
+<p>
+  Focused on turning ideas into
+  <b>clean</b>,
+  <b>maintainable</b> and
+  <b>scalable software.</b>
+</p>
 
-  <br/><br/>
+<br/>
 
-  <img src="https://img.shields.io/badge/Role-Student_Developer-22c55e" alt="role"/>
-  <img src="https://img.shields.io/badge/Focus-Clean_Code-0ea5e9" alt="focus"/>
-  <img src="https://img.shields.io/badge/Interest-System_Design-22c55e" alt="interest"/>
-  <img src="https://img.shields.io/badge/Status-Coding...-0ea5e9" alt="status"/>
+<a href="https://yasincaldiran.com">
+  <img
+    src="https://img.shields.io/badge/PORTFOLIO-yasincaldiran.com-0D1117?style=for-the-badge&logo=googlechrome&logoColor=22c55e"
+    alt="Portfolio"
+  />
+</a>
+
+<a href="https://www.linkedin.com/in/ysncldrn/">
+  <img
+    src="https://img.shields.io/badge/LINKEDIN-ysncldrn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+    alt="LinkedIn"
+  />
+</a>
+
+<a href="https://github.com/YasinCaldiran">
+  <img
+    src="https://img.shields.io/badge/GITHUB-YasinCaldiran-181717?style=for-the-badge&logo=github&logoColor=white"
+    alt="GitHub"
+  />
+</a>
 
 </div>
+
+<br/>
 
 ---
 
-## 🚀 About Me
-<div style="border:1px solid #30363d; border-radius:12px; padding:14px;">
-  <b>Purpose-driven student developer mindset</b><br/><br/>
-  • 🧠 Building projects to master <b>algorithms, OOP, and system thinking</b><br/>
-  • ⚙️ Interested in <b>backend logic</b>, clean APIs, and <b>data modeling</b><br/>
-  • 🎨 Care about <b>UI/UX</b> and maintainable architecture<br/>
-  • 🔁 Mindset: <b>learn fast → build → refactor → repeat</b>
-</div>
+# 👨‍💻 About Me
 
----
+```typescript
+const yasin = {
+    name: "Mehmet Yasin Çaldıran",
 
-## 🛠️ Tech Stack 
+    education: {
+        field: "Computer Engineering",
+        year: "2nd Year"
+    },
 
-<div align="center">
+    interests: [
+        "Backend Development",
+        "Frontend Development",
+        "Algorithms",
+        "Object-Oriented Programming",
+        "Databases",
+        "System Design"
+    ],
 
-| Category | Technologies |
-|---|---|
-| 💻 **Programming Languages** | <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python&perline=10" alt="langs" /> |
-| 🌐 **Web Basics** | <img src="https://skillicons.dev/icons?i=html,css,js,ts&perline=10" alt="web" /> |
-| ⚛️ **Frontend** | <img src="https://skillicons.dev/icons?i=react,vue&perline=10" alt="frontend" /> |
-| ⚙️ **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,express&perline=10" alt="backend" /> |
-| 🗄️ **Databases / BaaS** | <img src="https://skillicons.dev/icons?i=postgres,mongodb,firebase&perline=10" alt="db" /> |
-| 🧰 **Tools / DevOps** | <img src="https://skillicons.dev/icons?i=git,github,docker,nginx&perline=10" alt="tools" /> |
-| 🐧 **OS** | <img src="https://skillicons.dev/icons?i=linux&perline=10" alt="os" /> |
+    principles: [
+        "Clean Code",
+        "Maintainability",
+        "Scalability",
+        "Continuous Learning"
+    ],
 
-</div>
-## 📈 Activity (Line Graph)
-
-<div align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=YasinCaldiran&bg_color=0d1117&color=8b949e&line=22c55e&point=0ea5e9&hide_border=true"
-    height="260"
-    alt="activity graph"
-  />
-</div>
-
----
-
-<div align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=YasinCaldiran&style=flat&color=22c55e&label=Profile+Views"
-    alt="views"
-  />
-</div>
+    mindset: "Learn → Build → Refactor → Repeat"
+};
