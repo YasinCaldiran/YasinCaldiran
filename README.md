@@ -30,7 +30,10 @@
 
 <br/><br/>
 
-<!-- AÇIK KİTAP TASARIMI (Başlıksız, doğrudan ve düzenli) -->
+<!-- DİLLER BÖLÜMÜ İÇİN ŞIK VE ORTALANMIŞ BAŞLIK -->
+<h2 align="center">💻 Tech Stack</h2>
+
+<!-- AÇIK KİTAP TASARIMI -->
 <div align="center">
   <table align="center">
     <tr>
