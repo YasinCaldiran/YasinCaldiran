@@ -4,33 +4,33 @@
   
   <br/><br/>
 
-  <!-- SATIR 1: Kısa, Öz ve Tamamen Renkli Sosyal Medya Rozetleri -->
+  <!-- SATIR 1: İletişim & Sosyal Medya (Sol taraf koyu siyah, sağ taraf canlı neon) -->
   <a href="https://yasincaldiran.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Portfolio-7928CA?style=for-the-badge&logo=google-chrome&logoColor=white" alt="website"/>
+    <img src="https://img.shields.io/badge/Portfolio-yasincaldiran.com-7928CA?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=101010" alt="website"/>
   </a>
   <a href="https://www.linkedin.com/in/ysncldrn/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-FF0080?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
+    <img src="https://img.shields.io/badge/LinkedIn-ysncldrn-FF0080?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010" alt="linkedin"/>
   </a>
   <a href="https://github.com/YasinCaldiran" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-7928CA?style=for-the-badge&logo=github&logoColor=white" alt="github"/>
+    <img src="https://img.shields.io/badge/GitHub-YasinCaldiran-7928CA?style=for-the-badge&logo=github&logoColor=white&labelColor=101010" alt="github"/>
   </a>
 
   <br/><br/>
 
-  <!-- SATIR 2: Simetrik (3 Adet) ve Kısa Etiketler -->
-  <img src="https://img.shields.io/badge/-Software_Dev-FF0080?style=for-the-badge&logo=codeforces&logoColor=white" alt="role"/>
-  <img src="https://img.shields.io/badge/-Clean_Code-7928CA?style=for-the-badge&logo=sonarlint&logoColor=white" alt="focus"/>
-  <img src="https://img.shields.io/badge/-Architecture-FF0080?style=for-the-badge&logo=databricks&logoColor=white" alt="interest"/>
+  <!-- SATIR 2: Yazılım Rolü & İlgi Alanları (Sade ama açıklayıcı metinler) -->
+  <img src="https://img.shields.io/badge/Role-Software_Developer-FF0080?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=101010" alt="role"/>
+  <img src="https://img.shields.io/badge/Focus-Clean_Code-7928CA?style=for-the-badge&logo=sonarlint&logoColor=white&labelColor=101010" alt="focus"/>
+  <img src="https://img.shields.io/badge/Interest-System_Architecture-FF0080?style=for-the-badge&logo=databricks&logoColor=white&labelColor=101010" alt="interest"/>
   
   <br/><br/>
 
-  <!-- SATIR 3: Görüntülenme Sayacı (Tam uyumlu neon renkler) -->
-  <img src="https://komarev.com/ghpvc/?username=YasinCaldiran&style=for-the-badge&color=7928CA&label=VIEWS&labelColor=FF0080" alt="views" />
+  <!-- SATIR 3: Profil Görüntülenme Sayacı -->
+  <img src="https://komarev.com/ghpvc/?username=YasinCaldiran&style=for-the-badge&color=7928CA&label=PROFILE+VIEWS&labelColor=101010" alt="views" />
 </div>
 
 <br/><br/>
 
-<!-- AÇIK KİTAP TASARIMI (Başlık tamamen kaldırıldı) -->
+<!-- AÇIK KİTAP TASARIMI (Başlıksız, doğrudan ve düzenli) -->
 <div align="center">
   <table align="center">
     <tr>
@@ -61,7 +61,8 @@
 
 <br/>
 
-## 📈 Activity & Stats
+<!-- ORTALANMIŞ İSTATİSTİK BAŞLIĞI -->
+<h2 align="center">📈 Activity & Stats</h2>
 
 <div align="center">
   <!-- Çizgi Grafiği -->
@@ -70,12 +71,8 @@
 
 <br/>
 
+<!-- KARTLAR YAN YANA GELSİN DİYE AYNI DIV İÇİNDE BİRLEŞTİRİLDİ -->
 <div align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=YasinCaldiran&show_icons=true&hide_border=true&title_color=7928CA&icon_color=FF0080&text_color=333333&bg_color=ffffff" alt="GitHub Stats" />
-</div>
-
-<br/>
-
-<div align="center">
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=YasinCaldiran&layout=compact&hide_border=true&title_color=7928CA&text_color=333333&bg_color=ffffff" alt="Top Languages" />
 </div>
