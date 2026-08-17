@@ -1,52 +1,50 @@
 <!-- ========================================================= -->
-<!--              MEHMET YASIN ÇALDIRAN — README              -->
+<!--                  MEHMET YASIN ÇALDIRAN                    -->
 <!-- ========================================================= -->
 
 <div align="center">
 
 <img
   width="100%"
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:14b8a6,100:22c55e&height=185&section=header&text=Mehmet%20Yasin%20%C3%87ald%C4%B1ran&fontSize=42&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=Computer%20Engineering%20Student%20%7C%20Full-Stack%20Developer&descSize=17&descAlignY=56"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:14b8a6,100:22c55e&height=180&section=header&text=Mehmet%20Yasin%20%C3%87ald%C4%B1ran&fontSize=42&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=Computer%20Engineering%20Student%20%7C%20Developer&descSize=17&descAlignY=57"
   alt="Header"
 />
 
-<h3>🚀 Dream → Design → Code → Refactor → Repeat</h3>
+<img
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2600&pause=700&color=22C55E&center=true&vCenter=true&width=700&height=40&lines=Full-Stack+Developer;Backend+Development;Frontend+Development;Algorithms+%26+System+Design;Clean+Code+%E2%80%A2+Better+Software;Dream+%E2%86%92+Code+%E2%86%92+Improve+%E2%86%92+Repeat"
+  alt="Typing Animation"
+/>
 
 <p>
-  <b>Backend Development</b> •
-  <b>Frontend Development</b> •
-  <b>Databases</b> •
-  <b>System Design</b>
-</p>
-
-<p>
-  Building <b>clean</b>, <b>maintainable</b> and <b>scalable</b> software.
+  <strong>Backend</strong>
+  &nbsp;•&nbsp;
+  <strong>Frontend</strong>
+  &nbsp;•&nbsp;
+  <strong>Databases</strong>
+  &nbsp;•&nbsp;
+  <strong>System Design</strong>
 </p>
 
 <a href="https://yasincaldiran.com">
   <img
-    src="https://img.shields.io/badge/PORTFOLIO-yasincaldiran.com-0D1117?style=for-the-badge&logo=googlechrome&logoColor=22C55E"
-    alt="Portfolio"
+    src="https://img.shields.io/badge/Website-yasincaldiran.com-22C55E?style=for-the-badge&logo=googlechrome&logoColor=white"
+    alt="Website"
   />
 </a>
 
 <a href="https://www.linkedin.com/in/ysncldrn/">
   <img
-    src="https://img.shields.io/badge/LINKEDIN-ysncldrn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+    src="https://img.shields.io/badge/LinkedIn-ysncldrn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
     alt="LinkedIn"
   />
 </a>
 
 <a href="https://github.com/YasinCaldiran">
   <img
-    src="https://img.shields.io/badge/GITHUB-YasinCaldiran-181717?style=for-the-badge&logo=github&logoColor=white"
+    src="https://img.shields.io/badge/GitHub-YasinCaldiran-181717?style=for-the-badge&logo=github&logoColor=white"
     alt="GitHub"
   />
 </a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=YasinCaldiran&style=flat-square&color=22c55e&label=PROFILE+VIEWS" />
 
 </div>
 
@@ -54,347 +52,149 @@
 
 ## 👨‍💻 About Me
 
-<table>
-<tr>
-
-<td width="58%" valign="top">
-
-### 🚀 Developer Profile
-
 ```ts
 const yasin = {
   name: "Mehmet Yasin Çaldıran",
 
   education: {
-    field: "Computer Engineering",
+    department: "Computer Engineering",
     year: "2nd Year"
   },
 
   role: "Student Developer",
 
-  focus: [
-    "Full-Stack Development",
-    "Backend Architecture",
-    "Clean Code",
+  interests: [
+    "Backend Development",
+    "Frontend Development",
+    "Algorithms",
+    "Object-Oriented Programming",
+    "Databases",
     "System Design"
   ],
 
-  interests: [
-    "Algorithms",
-    "OOP",
-    "Databases",
-    "Software Architecture"
+  principles: [
+    "Clean Code",
+    "Maintainability",
+    "Scalability"
   ],
 
-  mindset: "Learn → Build → Refactor → Improve"
+  mindset: "Learn → Build → Refactor → Repeat"
 };
 ```
 
+I am a **Computer Engineering student** focused on improving my software development skills by building real projects.
+
+I am especially interested in **backend logic, frontend development, databases, algorithms and software architecture**.
+
+My goal is to build software that is not only functional, but also **clean, maintainable and scalable**.
+
+---
+
+## ⚡ Current Focus
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### 🧠 Learning
+
+- Algorithms & Data Structures
+- Object-Oriented Programming
+- Backend Architecture
+- Database Design
+- System Design
+
 </td>
 
-<td width="42%" valign="top">
+<td width="50%" valign="top">
 
-### ⚡ Quick Info
+### 🚀 Building
 
-🎓 **Education**  
-Computer Engineering
-
-<br/>
-
-💻 **Role**  
-Student Developer
-
-<br/>
-
-⚙️ **Main Focus**  
-Full-Stack Development
-
-<br/>
-
-🧠 **Interested In**  
-Backend • Algorithms • System Design
-
-<br/>
-
-🌐 **Portfolio**  
-yasincaldiran.com
-
-<br/>
-
-🎯 **Goal**  
-Building real-world scalable projects
+- Full-Stack Applications
+- REST APIs
+- Developer Tools
+- Database-Driven Applications
+- Real-World Projects
 
 </td>
 
 </tr>
 </table>
 
-> I don't just want software to work — I want to understand **why it works, how it scales, and how it can be improved.**
-
 ---
 
-## 🎯 Current Focus
+## 🛠️ Tech Stack
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/CLEAN_CODE-0D1117?style=for-the-badge&logo=codefactor&logoColor=22C55E" />
-<img src="https://img.shields.io/badge/BACKEND-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=22C55E" />
-<img src="https://img.shields.io/badge/SYSTEM_DESIGN-0D1117?style=for-the-badge&logo=diagramsdotnet&logoColor=0EA5E9" />
-<img src="https://img.shields.io/badge/ALGORITHMS-0D1117?style=for-the-badge&logo=leetcode&logoColor=0EA5E9" />
-
-</div>
-
-<br/>
-
-<table>
-
-<tr>
-
-<td width="25%" align="center">
-
-### 🧠 Learn
-
-Algorithms  
-Data Structures  
-System Thinking
-
-</td>
-
-<td width="25%" align="center">
-
-### 🛠️ Build
-
-Web Apps  
-APIs  
-Developer Tools
-
-</td>
-
-<td width="25%" align="center">
-
-### 🔧 Refactor
-
-Clean Code  
-Architecture  
-Performance
-
-</td>
-
-<td width="25%" align="center">
-
-### 🚀 Improve
-
-Scalability  
-UX  
-Maintainability
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-## 🛠️ Technology Arsenal
-
-<table>
-
-<tr>
-
-<td width="33%" align="center" valign="top">
-
-### 💻 Languages
+### 💻 Programming Languages
 
 <img
-  src="https://skillicons.dev/icons?i=c,cpp,cs,java,python&theme=dark&perline=5"
-  alt="Languages"
+  src="https://skillicons.dev/icons?i=c,cpp,cs,java,python&theme=dark"
+  alt="Programming Languages"
 />
-
-</td>
-
-<td width="33%" align="center" valign="top">
 
 ### 🌐 Frontend
 
 <img
-  src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue&theme=dark&perline=6"
+  src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue&theme=dark"
   alt="Frontend"
 />
 
-</td>
-
-<td width="33%" align="center" valign="top">
-
-### ⚙️ Backend
+### ⚙️ Backend & Databases
 
 <img
-  src="https://skillicons.dev/icons?i=nodejs,express&theme=dark&perline=4"
-  alt="Backend"
+  src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,firebase&theme=dark"
+  alt="Backend and Databases"
 />
 
-</td>
-
-</tr>
-
-<tr>
-
-<td width="33%" align="center" valign="top">
-
-### 🗄️ Databases
+### 🧰 Tools & DevOps
 
 <img
-  src="https://skillicons.dev/icons?i=postgres,mongodb,firebase&theme=dark&perline=5"
-  alt="Databases"
+  src="https://skillicons.dev/icons?i=git,github,docker,nginx,linux,vscode,visualstudio&theme=dark"
+  alt="Tools and DevOps"
 />
 
-</td>
-
-<td width="33%" align="center" valign="top">
-
-### 🚀 DevOps
-
-<img
-  src="https://skillicons.dev/icons?i=docker,nginx,linux&theme=dark&perline=5"
-  alt="DevOps"
-/>
-
-</td>
-
-<td width="33%" align="center" valign="top">
-
-### 🧰 Tools
-
-<img
-  src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio&theme=dark&perline=5"
-  alt="Tools"
-/>
-
-</td>
-
-</tr>
-
-</table>
+</div>
 
 ---
 
-## 🚀 Featured Projects
+## 🎯 Development Interests
 
-<table>
+<div align="center">
 
-<tr>
+<img src="https://img.shields.io/badge/Clean_Code-0D1117?style=for-the-badge&logo=codefactor&logoColor=22C55E" />
 
-<td width="50%" valign="top">
+<img src="https://img.shields.io/badge/Backend-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=22C55E" />
 
-### 🧹 CleanLink
+<img src="https://img.shields.io/badge/Frontend-0D1117?style=for-the-badge&logo=react&logoColor=0EA5E9" />
 
-A modern web project focused on delivering a **clean, practical and user-friendly web experience**.
+<img src="https://img.shields.io/badge/Databases-0D1117?style=for-the-badge&logo=postgresql&logoColor=0EA5E9" />
 
-**Focus Areas**
+<img src="https://img.shields.io/badge/System_Design-0D1117?style=for-the-badge&logo=diagramsdotnet&logoColor=22C55E" />
 
-- ⚡ Performance
-- 🎨 Clean UI / UX
-- 🧩 Maintainable architecture
-- 🔒 Modern web practices
-- 🚀 Production deployment
-
-<p align="center">
-
-<a href="https://yasincaldiran.com">
-  <img src="https://img.shields.io/badge/VIEW_PROJECT-22C55E?style=for-the-badge&logo=googlechrome&logoColor=white" />
-</a>
-
-</p>
-
-</td>
-
-<td width="50%" valign="top">
-
-### 📈 Stock Analyzer
-
-A software project created to practice **analysis logic, OOP and visual data representation**.
-
-**Focus Areas**
-
-- 📊 Data visualization
-- 🧠 Analysis logic
-- 🏗️ Object-Oriented Programming
-- 🖥️ Windows application development
-- 📈 Signal-based analysis
-
-<p align="center">
-
-<a href="https://github.com/YasinCaldiran">
-  <img src="https://img.shields.io/badge/VIEW_GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</p>
-
-</td>
-
-</tr>
-
-</table>
+</div>
 
 ---
 
-## 🧩 What I'm Building Toward
-
-<table>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### ⚙️ Engineering
-
-- Clean backend architectures
-- Well-structured REST APIs
-- Maintainable codebases
-- Better database modeling
-- Scalable application design
-- Strong OOP principles
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🎨 Product
-
-- Modern interfaces
-- Responsive web applications
-- Better user experience
-- Practical developer tools
-- Fast and useful applications
-- Real-world projects
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-## 📊 GitHub Analytics
+## 📊 GitHub Statistics
 
 <div align="center">
 
 <img
   width="49%"
   src="https://github-stats-extended.vercel.app/api?username=YasinCaldiran&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=22C55E&icon_color=0EA5E9&text_color=C9D1D9"
-  alt="GitHub Stats"
+  alt="GitHub Statistics"
 />
 
 <img
   width="49%"
   src="https://github-stats-extended.vercel.app/api/top-langs/?username=YasinCaldiran&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=22C55E&text_color=C9D1D9"
-  alt="Top Languages"
+  alt="Most Used Languages"
 />
 
 </div>
-
-<br/>
 
 <div align="center">
 
@@ -414,66 +214,15 @@ A software project created to practice **analysis logic, OOP and visual data rep
 
 <img
   width="100%"
-  src="https://github-readme-activity-graph.vercel.app/graph?username=YasinCaldiran&bg_color=0D1117&color=C9D1D9&line=22C55E&point=0EA5E9&area=true&area_color=22C55E&hide_border=true&custom_title=Yasin%27s%20Contribution%20Graph"
-  alt="Contribution Graph"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=YasinCaldiran&bg_color=0D1117&color=C9D1D9&line=22C55E&point=0EA5E9&area=true&area_color=22C55E&hide_border=true"
+  alt="Contribution Activity Graph"
 />
 
 </div>
 
 ---
 
-## 🗺️ Development Roadmap
-
-<table>
-
-<tr>
-
-<td width="33%" valign="top">
-
-### 📚 Learning
-
-- Advanced JavaScript
-- TypeScript
-- Backend architecture
-- Data structures
-- Algorithms
-- Design patterns
-
-</td>
-
-<td width="33%" valign="top">
-
-### 🔨 Building
-
-- Full-stack applications
-- Developer utilities
-- REST APIs
-- Database-driven systems
-- Open-source projects
-- Portfolio projects
-
-</td>
-
-<td width="33%" valign="top">
-
-### 🎯 Improving
-
-- Clean Code
-- System Design
-- Docker
-- Linux
-- Deployment
-- Software architecture
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-## 🧠 Engineering Principles
+## 💡 How I Build
 
 <div align="center">
 
@@ -481,81 +230,45 @@ A software project created to practice **analysis logic, OOP and visual data rep
 
 <tr>
 
-<td align="center">
+<td width="25%" align="center">
 
-### 01
+### 🧠 Learn
 
-**Understand**
-
-Know the problem  
-before writing code.
+Understand the  
+problem first.
 
 </td>
 
-<td align="center">
+<td width="25%" align="center">
 
-### 02
+### 🛠️ Build
 
-**Design**
-
-Create a clean  
-structure first.
+Turn ideas into  
+working software.
 
 </td>
 
-<td align="center">
+<td width="25%" align="center">
 
-### 03
-
-**Build**
-
-Turn the idea  
-into software.
-
-</td>
-
-<td align="center">
-
-### 04
-
-**Refactor**
+### 🔧 Refactor
 
 Improve structure  
 and readability.
 
 </td>
 
-<td align="center">
+<td width="25%" align="center">
 
-### 05
+### 🚀 Improve
 
-**Repeat**
-
-Learn from every  
-iteration.
+Make every version  
+better than before.
 
 </td>
 
 </tr>
 
 </table>
-
-</div>
-
----
-
-## 💡 Developer Philosophy
-
-<div align="center">
-
-### `Dream → Design → Code → Test → Refactor → Repeat`
-
-<br/>
-
-<img src="https://img.shields.io/badge/01_LEARN-0D1117?style=for-the-badge&labelColor=22C55E" />
-<img src="https://img.shields.io/badge/02_BUILD-0D1117?style=for-the-badge&labelColor=0EA5E9" />
-<img src="https://img.shields.io/badge/03_REFACTOR-0D1117?style=for-the-badge&labelColor=22C55E" />
-<img src="https://img.shields.io/badge/04_IMPROVE-0D1117?style=for-the-badge&labelColor=0EA5E9" />
 
 </div>
 
@@ -566,8 +279,7 @@ iteration.
 <div align="center">
 
 <p>
-If you're interested in software development, technology or building useful things,
-feel free to connect with me.
+  Let's connect and build something useful.
 </p>
 
 <a href="https://yasincaldiran.com">
@@ -593,11 +305,19 @@ feel free to connect with me.
 
 <br/><br/>
 
-### `while (alive) { learn(); build(); improve(); }`
+<img
+  src="https://komarev.com/ghpvc/?username=YasinCaldiran&style=for-the-badge&color=22C55E&label=PROFILE+VIEWS"
+  alt="Profile Views"
+/>
+
+<br/><br/>
+
+### `Dream → Code → Improve → Repeat`
 
 <img
   width="100%"
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:22c55e,50:14b8a6,100:0ea5e9&height=105&section=footer"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:22c55e,50:14b8a6,100:0ea5e9&height=100&section=footer"
+  alt="Footer"
 />
 
 </div>
