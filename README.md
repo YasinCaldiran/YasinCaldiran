@@ -4,27 +4,24 @@
   
   <br/><br/>
 
-  <!-- YEPYENİ: Dinamik Terminal/Hacker Efekti (Statik rozetler yerine hareketli kimlik) -->
-  <a href="https://github.com/YasinCaldiran">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1500&color=FF0080&center=true&vCenter=true&width=500&lines=%3E_+Software+Developer;%3E_+Clean+Code+Advocate;%3E_+System+Architecture;%3E_+Building+Next-Gen+Backends" alt="Typing SVG" />
-  </a>
-
-  <br/>
-
-  <!-- YEPYENİ: Neon Işıklı Minimal Sosyal Medya (Sadece logolar renkli, arka plan simsiyah) -->
+  <!-- SATIR 1: GitHub silindi! Sadece Website ve LinkedIn (Uzun adreslerle yazıldı) -->
   <a href="https://yasincaldiran.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Portfolio-101010?style=for-the-badge&logo=google-chrome&logoColor=7928CA" alt="website"/>
+    <img src="https://img.shields.io/badge/WEBSITE-YASINCALDIRAN.COM-7928CA?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=101010" alt="website"/>
   </a>
   <a href="https://www.linkedin.com/in/ysncldrn/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-101010?style=for-the-badge&logo=linkedin&logoColor=FF0080" alt="linkedin"/>
-  </a>
-  <a href="https://github.com/YasinCaldiran" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-101010?style=for-the-badge&logo=github&logoColor=7928CA" alt="github"/>
+    <img src="https://img.shields.io/badge/LINKEDIN-LINKEDIN.COM/IN/YSNCLDRN-FF0080?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010" alt="linkedin"/>
   </a>
 
   <br/><br/>
 
-  <!-- Profil Görüntülenme Sayacı -->
+  <!-- SATIR 2: Yazılım Rolü & İlgi Alanları (Uzun ve bilgi verici) -->
+  <img src="https://img.shields.io/badge/Role-Software_Developer-FF0080?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=101010" alt="role"/>
+  <img src="https://img.shields.io/badge/Focus-Clean_Code-7928CA?style=for-the-badge&logo=sonarlint&logoColor=white&labelColor=101010" alt="focus"/>
+  <img src="https://img.shields.io/badge/Interest-System_Architecture-FF0080?style=for-the-badge&logo=databricks&logoColor=white&labelColor=101010" alt="interest"/>
+  
+  <br/><br/>
+
+  <!-- SATIR 3: Profil Görüntülenme Sayacı -->
   <img src="https://komarev.com/ghpvc/?username=YasinCaldiran&style=for-the-badge&color=7928CA&label=PROFILE+VIEWS&labelColor=101010" alt="views" />
 </div>
 
