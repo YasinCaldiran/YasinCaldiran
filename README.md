@@ -4,17 +4,17 @@
   
   <br/>
 
-  <!-- SATIR 1: GitHub silindi! Sadece Website ve LinkedIn (Uzun adreslerle yazıldı) -->
+  <!-- SATIR 1: GitHub silindi! Sadece Website ve LinkedIn (Tam URL'ler) -->
   <a href="https://yasincaldiran.com" target="_blank">
-    <img src="https://img.shields.io/badge/WEBSITE-YASINCALDIRAN.COM-7928CA?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=101010" alt="website"/>
+    <img src="https://img.shields.io/badge/WEBSITE-WWW.YASINCALDIRAN.COM-7928CA?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=101010" alt="website"/>
   </a>
-  <a href="https://www.linkedin.com/in/ysncldrn/" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-YSNCLDRN-FF0080?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010" alt="linkedin"/>
+  <a href="https://www.linkedin.com/in/ysncldrn" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-WWW.LINKEDIN.COM%2FIN%2FYSNCLDRN-FF0080?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010" alt="linkedin"/>
   </a>
 
   <br/>
 
-  <!-- SATIR 2: Yazılım Rolü & İlgi Alanları (Uzun ve bilgi verici) -->
+  <!-- SATIR 2: Yazılım Rolü & İlgi Alanları -->
   <img src="https://img.shields.io/badge/Role-Software_Developer-FF0080?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=101010" alt="role"/>
   <img src="https://img.shields.io/badge/Focus-Clean_Code-7928CA?style=for-the-badge&logo=sonarlint&logoColor=white&labelColor=101010" alt="focus"/>
   <img src="https://img.shields.io/badge/Interest-System_Architecture-FF0080?style=for-the-badge&logo=databricks&logoColor=white&labelColor=101010" alt="interest"/>
