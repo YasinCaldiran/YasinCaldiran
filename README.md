@@ -1,6 +1,6 @@
 <div align="center">
-  <!-- Fütüristik "slice" (kesik) çerçeve ve saate göre değişen dinamik renk gradyanı (timeGradient) -->
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=timeGradient&height=200&section=header&text=Mehmet%20Yasin%20%C3%87ald%C4%B1ran&fontSize=48&fontColor=ffffff&animation=scaleIn&desc=%E2%9A%99%EF%B8%8F%20Computer%20Engineering%20Student%20%7C%20Backend%20Developer&descSize=18&descAlignY=75" alt="header" />
+  <!-- Yumuşak köşeli (soft), temiz ve profesyonel tasarım, yanıp sönen parıldama (twinkling) efekti -->
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0ea5e9,100:22c55e&height=190&section=header&text=Mehmet%20Yasin%20%C3%87ald%C4%B1ran&fontSize=44&fontColor=ffffff&animation=twinkling&desc=%E2%9A%99%EF%B8%8F%20Computer%20Engineering%20Student%20%7C%20Backend%20Developer&descSize=16&descAlignY=72" alt="header" />
   
   <h3>🚀 Dream → Code → Repeat</h3>
   
