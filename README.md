@@ -1,49 +1,57 @@
-<!-- Profil Ziyaretçi Sayacı -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profil%20Ziyaretleri&color=0e75b6&style=flat" alt="Visitor Badge" />
-</div>
+  <!-- Üstteki banner için animasyon type=rect ve animation=twinkling olarak değiştirildi -->
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0ea5e9,100:22c55e&height=190&section=header&text=Mehmet%20Yasin%20%C3%87ald%C4%B1ran&fontSize=44&fontColor=ffffff&animation=twinkling&desc=2nd%20Year%20Computer%20Engineering%20Student&descSize=16&descAlignY=72" alt="header" />
+  
+  <h3>🚀 Dream → Code → Repeat</h3>
+  
+  <br/>
 
-<br/>
-
-<!-- İletişim, Sosyal Medya ve Web Sitesi -->
-<div align="center">
-  <a href="https://seninwebsiten.com" target="_blank"><img src="https://img.shields.io/badge/Web_Sitem-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a>
-  <a href="https://linkedin.com/in/yourusername" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://twitter.com/yourusername" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter" /></a>
-  <a href="mailto:eposta@adresiniz.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</div>
-
-<br/>
-
-<!-- Kullandığım Diller ve Araçlar -->
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,py,react,nextjs,nodejs,aws,docker,git,linux,mongodb,postgresql" alt="Yetenekler" />
+  <a href="https://yasincaldiran.com" target="_blank">
+    <img src="https://img.shields.io/badge/Website-yasincaldiran.com-111?style=for-the-badge&logo=google-chrome&logoColor=white" alt="website"/>
   </a>
-</div>
-
-<br/>
-<br/>
-
-<!-- GitHub Analitiği ve Grafikler -->
-<!-- Not: 'abhisheknaiidu' kısımlarını kendi kullanıcı adınızla değiştirmeyi unutmayın! -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub İstatistikleri" />
-  <img src="https://streak-stats.demolab.com/?user=abhisheknaiidu&theme=react&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=C9D1D9" alt="GitHub Serisi" />
-</div>
-
-<br/>
-
-<!-- En Çok Kullanılan Diller (Grafik) -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhisheknaiidu&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="En Çok Kullanılan Diller" />
-</div>
-
-<br/>
-
-<!-- Başarılar / Kupalar -->
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=abhisheknaiidu&theme=discord&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Kupaları" />
+  <a href="https://www.linkedin.com/in/ysncldrn/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-ysncldrn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
   </a>
+  <a href="https://github.com/YasinCaldiran" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-YasinCaldiran-111?style=for-the-badge&logo=github&logoColor=white" alt="github"/>
+  </a>
+
+  <br/><br/>
+
+  <img src="https://img.shields.io/badge/Role-Student_Developer-22c55e" alt="role"/>
+  <img src="https://img.shields.io/badge/Focus-Clean_Code-0ea5e9" alt="focus"/>
+  <img src="https://img.shields.io/badge/Interest-System_Design-22c55e" alt="interest"/>
+  <img src="https://img.shields.io/badge/Status-Coding...-0ea5e9" alt="status"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=YasinCaldiran&style=flat&color=22c55e&label=Profile+Views" alt="views" />
+</div>
+
+<br/>
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+| Category | Technologies |
+|---|---|
+| 💻 **Programming** | <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python&perline=10" alt="langs" /> |
+| 🌐 **Web Basics** | <img src="https://skillicons.dev/icons?i=html,css,js,ts&perline=10" alt="web" /> |
+| ⚛️ **Frontend** | <img src="https://skillicons.dev/icons?i=react,vue&perline=10" alt="frontend" /> |
+| ⚙️ **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,express&perline=10" alt="backend" /> |
+| 🗄️ **Databases** | <img src="https://skillicons.dev/icons?i=postgres,mongodb,firebase&perline=10" alt="db" /> |
+| 🧰 **Tools** | <img src="https://skillicons.dev/icons?i=git,github,docker,nginx&perline=10" alt="tools" /> |
+| 🐧 **OS** | <img src="https://skillicons.dev/icons?i=linux&perline=10" alt="os" /> |
+
+</div>
+
+<br/>
+
+## 📈 Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YasinCaldiran&bg_color=0d1117&color=8b949e&line=22c55e&point=0ea5e9&hide_border=true" height="260" alt="activity graph" />
 </div>
