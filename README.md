@@ -12,8 +12,8 @@
   <a href="https://www.linkedin.com/in/ysncldrn/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-ysncldrn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
   </a>
-  <a href="https://github.com/YasinCaldiran" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-YasinCaldiran-111?style=for-the-badge&logo=github&logoColor=white" alt="github"/>
+  <a href="https://github.com/ysncldrn" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-ysncldrn-111?style=for-the-badge&logo=github&logoColor=white" alt="github"/>
   </a>
 
   <br/><br/>
@@ -27,35 +27,43 @@
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YasinCaldiran&style=flat&color=FF0080&label=Profile+Views" alt="views" />
+  <img src="https://komarev.com/ghpvc/?username=ysncldrn&style=flat&color=FF0080&label=Profile+Views" alt="views" />
 </div>
 
 <br/>
 
 <div align="center">
-  <!-- Animasyonlu Kategori Başlıkları (scaleIn) ve Skill Icons -->
+  <!-- Animasyonlu Kategori Başlıkları (Typing Effect) ve Kitaplık/Raf Görünümlü Skill Icons -->
   
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=50&text=Programming%20Languages&fontSize=22&fontColor=7928CA&animation=scaleIn" alt="Languages" />
+  <a href="https://github.com/ysncldrn">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7928CA&center=true&vCenter=true&width=400&lines=Programming+Languages;C,+C%2B%2B,+C%23,+Java,+Python" alt="Typing SVG" />
+  </a>
   <br/>
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python" alt="Langs" />
-  
-  <br/><br/>
-
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=50&text=Web%20and%20Frontend&fontSize=22&fontColor=FF0080&animation=scaleIn" alt="Frontend" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue" alt="Web" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python&perline=5" alt="Langs" />
   
   <br/><br/>
 
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=50&text=Backend%20and%20Databases&fontSize=22&fontColor=7928CA&animation=scaleIn" alt="Backend" />
+  <a href="https://github.com/ysncldrn">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF0080&center=true&vCenter=true&width=400&lines=Web+and+Frontend;HTML,+CSS,+JS,+TS,+React,+Vue" alt="Typing SVG" />
+  </a>
   <br/>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,firebase" alt="DB" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue&perline=6" alt="Web" />
   
   <br/><br/>
 
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=50&text=DevOps%20and%20Tools&fontSize=22&fontColor=FF0080&animation=scaleIn" alt="Tools" />
+  <a href="https://github.com/ysncldrn">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7928CA&center=true&vCenter=true&width=400&lines=Backend+and+Databases;Node.js,+Express,+Postgres,+MongoDB" alt="Typing SVG" />
+  </a>
   <br/>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,nginx,linux" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,firebase&perline=5" alt="DB" />
+  
+  <br/><br/>
+
+  <a href="https://github.com/ysncldrn">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF0080&center=true&vCenter=true&width=400&lines=DevOps+and+Tools;Git,+Docker,+Nginx,+Linux" alt="Typing SVG" />
+  </a>
+  <br/>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,nginx,linux&perline=5" alt="Tools" />
 </div>
 
 <br/>
@@ -63,20 +71,20 @@
 ## 📈 Activity & Stats
 
 <div align="center">
-  <!-- Açık Renkli Aktivite Grafiği (Light Mode) ve YENİ Tema Renkleri (Mor/Pembe Çizgiler) -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YasinCaldiran&bg_color=ffffff&color=333333&line=7928CA&point=FF0080&hide_border=true" height="260" alt="activity graph" />
+  <!-- Açık Renkli Aktivite Grafiği (Kullanıcı adı hatası giderildi) -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ysncldrn&bg_color=ffffff&color=333333&line=7928CA&point=FF0080&hide_border=true" height="260" alt="activity graph" />
 </div>
 
 <br/>
 
 <div align="center">
-  <!-- GitHub Genel İstatistikleri (Yeni Temaya Özel Renklendirilmiş) -->
-  <img src="https://github-stats-extended.vercel.app/api?username=YasinCaldiran&show_icons=true&hide_border=true&title_color=7928CA&icon_color=FF0080&text_color=333333&bg_color=ffffff" alt="GitHub Stats" />
+  <!-- GitHub Genel İstatistikleri -->
+  <img src="https://github-stats-extended.vercel.app/api?username=ysncldrn&show_icons=true&hide_border=true&title_color=7928CA&icon_color=FF0080&text_color=333333&bg_color=ffffff" alt="GitHub Stats" />
 </div>
 
 <br/>
 
 <div align="center">
-  <!-- En Çok Kullanılan Diller (Yeni Temaya Özel Renklendirilmiş) -->
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=YasinCaldiran&layout=compact&hide_border=true&title_color=7928CA&text_color=333333&bg_color=ffffff" alt="Top Languages" />
+  <!-- En Çok Kullanılan Diller -->
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ysncldrn&layout=compact&hide_border=true&title_color=7928CA&text_color=333333&bg_color=ffffff" alt="Top Languages" />
 </div>
