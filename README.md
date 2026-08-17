@@ -4,25 +4,13 @@
   
   <br/>
 
-  <!-- SATIR 1: GitHub silindi! Sadece Website ve LinkedIn (Tam URL'ler) -->
+  <!-- Kısa ve Net Sosyal Medya Rozetleri -->
   <a href="https://yasincaldiran.com" target="_blank">
-    <img src="https://img.shields.io/badge/WEBSITE-WWW.YASINCALDIRAN.COM-7928CA?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=101010" alt="website"/>
+    <img src="https://img.shields.io/badge/WEBSITE-7928CA?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=101010" alt="website"/>
   </a>
   <a href="https://www.linkedin.com/in/ysncldrn" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-WWW.LINKEDIN.COM%2FIN%2FYSNCLDRN-FF0080?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010" alt="linkedin"/>
+    <img src="https://img.shields.io/badge/LINKEDIN-FF0080?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010" alt="linkedin"/>
   </a>
-
-  <br/>
-
-  <!-- SATIR 2: Yazılım Rolü & İlgi Alanları -->
-  <img src="https://img.shields.io/badge/Role-Software_Developer-FF0080?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=101010" alt="role"/>
-  <img src="https://img.shields.io/badge/Focus-Clean_Code-7928CA?style=for-the-badge&logo=sonarlint&logoColor=white&labelColor=101010" alt="focus"/>
-  <img src="https://img.shields.io/badge/Interest-System_Architecture-FF0080?style=for-the-badge&logo=databricks&logoColor=white&labelColor=101010" alt="interest"/>
-  
-  <br/>
-
-  <!-- SATIR 3: Profil Görüntülenme Sayacı -->
-  <img src="https://komarev.com/ghpvc/?username=YasinCaldiran&style=for-the-badge&color=7928CA&label=PROFILE+VIEWS&labelColor=101010" alt="views" />
 </div>
 
 <br/>
@@ -68,7 +56,17 @@
   
   <br/>
 
-  <!-- KARTLAR YAN YANA GELSİN DİYE AYNI DIV İÇİNDE BİRLEŞTİRİLDİ -->
+  <!-- İstatistik Kartları Yan Yana -->
   <img src="https://github-stats-extended.vercel.app/api?username=YasinCaldiran&show_icons=true&hide_border=true&title_color=7928CA&icon_color=FF0080&text_color=333333&bg_color=ffffff" alt="GitHub Stats" />
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=YasinCaldiran&layout=compact&hide_border=true&title_color=7928CA&text_color=333333&bg_color=ffffff" alt="Top Languages" />
+</div>
+
+<br/>
+
+<!-- ROL, FOCUS, INTEREST VE ANALYTICS (GÖRÜNTÜLENME) KISMI STATLARIN ALTINA TAŞINDI -->
+<div align="center">
+  <img src="https://img.shields.io/badge/ROLE-SOFTWARE_DEV-FF0080?style=for-the-badge&labelColor=101010" alt="role"/>
+  <img src="https://img.shields.io/badge/FOCUS-CLEAN_CODE-7928CA?style=for-the-badge&labelColor=101010" alt="focus"/>
+  <img src="https://img.shields.io/badge/INTEREST-SYSTEMS-FF0080?style=for-the-badge&labelColor=101010" alt="interest"/>
+  <img src="https://komarev.com/ghpvc/?username=YasinCaldiran&style=for-the-badge&color=7928CA&label=VIEWS&labelColor=101010" alt="views" />
 </div>
