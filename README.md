@@ -2,9 +2,9 @@
   <!-- Silindir (Cylinder) hap tasarımı ve Mor'dan Pembeye (Cyberpunk/Neon) Geçiş Renkleri -->
   <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:7928CA,100:FF0080&height=190&section=header&text=Mehmet%20Yasin%20%C3%87ald%C4%B1ran&fontSize=44&fontColor=ffffff&animation=twinkling&desc=%E2%9A%99%EF%B8%8F%20Computer%20Engineering%20Student%20%7C%20Software%20Developer&descSize=16&descAlignY=72" alt="header" />
   
-  <br/><br/>
+  <br/>
 
-  <!-- SATIR 1: İletişim & Sosyal Medya (Sol taraf koyu siyah, sağ taraf canlı neon) -->
+  <!-- SATIR 1: İletişim & Sosyal Medya -->
   <a href="https://yasincaldiran.com" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-yasincaldiran.com-7928CA?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=101010" alt="website"/>
   </a>
@@ -15,34 +15,31 @@
     <img src="https://img.shields.io/badge/GitHub-YasinCaldiran-7928CA?style=for-the-badge&logo=github&logoColor=white&labelColor=101010" alt="github"/>
   </a>
 
-  <br/><br/>
+  <br/>
 
-  <!-- SATIR 2: Yazılım Rolü & İlgi Alanları (Sade ama açıklayıcı metinler) -->
+  <!-- SATIR 2: Yazılım Rolü & İlgi Alanları -->
   <img src="https://img.shields.io/badge/Role-Software_Developer-FF0080?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=101010" alt="role"/>
   <img src="https://img.shields.io/badge/Focus-Clean_Code-7928CA?style=for-the-badge&logo=sonarlint&logoColor=white&labelColor=101010" alt="focus"/>
   <img src="https://img.shields.io/badge/Interest-System_Architecture-FF0080?style=for-the-badge&logo=databricks&logoColor=white&labelColor=101010" alt="interest"/>
   
-  <br/><br/>
+  <br/>
 
   <!-- SATIR 3: Profil Görüntülenme Sayacı -->
   <img src="https://komarev.com/ghpvc/?username=YasinCaldiran&style=for-the-badge&color=7928CA&label=PROFILE+VIEWS&labelColor=101010" alt="views" />
 </div>
 
-<br/><br/>
-
 <!-- DİLLER BÖLÜMÜ İÇİN ŞIK VE ORTALANMIŞ BAŞLIK -->
 <h2 align="center">💻 Tech Stack</h2>
 
-<!-- AÇIK KİTAP TASARIMI -->
+<!-- AÇIK KİTAP TASARIMI (Boşluklar daraltıldı) -->
 <div align="center">
   <table align="center">
     <tr>
       <td align="center" valign="top" width="380">
         <h3>📄 Chapter I: Logic & UI</h3>
-        <br>
-        <b>💻 Programming Languages</b><br><br>
-        <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python&perline=5" alt="Programming Languages" /><br><br><br>
-        <b>🌐 Web & Frontend</b><br><br>
+        <b>💻 Programming Languages</b><br>
+        <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python&perline=5" alt="Programming Languages" /><br><br>
+        <b>🌐 Web & Frontend</b><br>
         <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue&perline=3" alt="Frontend" />
       </td>
       <td width="40" align="center" valign="middle">
@@ -52,17 +49,14 @@
       </td>
       <td align="center" valign="top" width="380">
         <h3>📄 Chapter II: Server & Ops</h3>
-        <br>
-        <b>⚙️ Backend & Databases</b><br><br>
-        <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,firebase&perline=3" alt="Backend" /><br><br><br>
-        <b>🛠️ DevOps & Tools</b><br><br>
+        <b>⚙️ Backend & Databases</b><br>
+        <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,firebase&perline=3" alt="Backend" /><br><br>
+        <b>🛠️ DevOps & Tools</b><br>
         <img src="https://skillicons.dev/icons?i=git,github,docker,nginx,linux&perline=3" alt="Tools" />
       </td>
     </tr>
   </table>
 </div>
-
-<br/>
 
 <!-- ORTALANMIŞ İSTATİSTİK BAŞLIĞI -->
 <h2 align="center">📈 Activity & Stats</h2>
