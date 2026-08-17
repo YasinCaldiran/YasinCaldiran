@@ -32,28 +32,43 @@
 
 <br/>
 
-<!-- Canlı ve Orijinal SVG İkonları -->
+<!-- AÇIK KİTAP TASARIMI (Sol Sayfa - Sağ Sayfa) -->
 <div align="center">
-  <h2>⚡ Tech Stack</h2>
+  <h2>📖 The Developer's Chronicle</h2>
   <br>
+  <table align="center">
+    <tr>
+      <!-- SOL SAYFA -->
+      <td align="center" valign="top" width="380">
+        <h3>📄 Chapter I: Logic & UI</h3>
+        <br>
+        <b>💻 Programming Languages</b><br><br>
+        <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python&perline=5" alt="Programming Languages" />
+        <br><br><br>
+        <b>🌐 Web & Frontend</b><br><br>
+        <!-- İkonları 3'lü gruplar halinde sayfa düzeninde alt alta dizer -->
+        <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue&perline=3" alt="Frontend" />
+      </td>
+      
+      <!-- KİTAP SIRTI / AYRAÇ -->
+      <td width="40" align="center" valign="middle">
+         <h1 style="color: #7928CA;">⋮</h1>
+         <h1 style="color: #FF0080;">⋮</h1>
+         <h1 style="color: #7928CA;">⋮</h1>
+      </td>
 
-  <h3>💻 Programming Languages</h3>
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python" alt="Programming Languages" />
-  
-  <br><br>
-
-  <h3>🌐 Web & Frontend</h3>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue" alt="Frontend" />
-  
-  <br><br>
-
-  <h3>⚙️ Backend & Databases</h3>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,firebase" alt="Backend" />
-  
-  <br><br>
-
-  <h3>🛠️ DevOps & Tools</h3>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,nginx,linux" alt="Tools" />
+      <!-- SAĞ SAYFA -->
+      <td align="center" valign="top" width="380">
+        <h3>📄 Chapter II: Server & Ops</h3>
+        <br>
+        <b>⚙️ Backend & Databases</b><br><br>
+        <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,firebase&perline=3" alt="Backend" />
+        <br><br><br>
+        <b>🛠️ DevOps & Tools</b><br><br>
+        <img src="https://skillicons.dev/icons?i=git,github,docker,nginx,linux&perline=3" alt="Tools" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br/>
@@ -61,7 +76,7 @@
 ## 📈 Activity & Stats
 
 <div align="center">
-  <!-- İstediğin Çizgi Grafiği Geri Eklendi -->
+  <!-- İstediğin Çizgi Grafiği -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=YasinCaldiran&bg_color=ffffff&color=333333&line=7928CA&point=FF0080&hide_border=true" height="260" alt="activity graph" />
 </div>
 
