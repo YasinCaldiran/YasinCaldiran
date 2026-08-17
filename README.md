@@ -60,9 +60,8 @@
 <br/>
 
 <div align="center">
-  <!-- Ekstra: GitHub Genel İstatistikleri ve Seri (Streak) Grafiği (Açık Renk Temalı) -->
+  <!-- Ekstra: GitHub Genel İstatistikleri (Açık Renk Temalı) -->
   <img src="https://github-stats-extended.vercel.app/api?username=YasinCaldiran&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YasinCaldiran&theme=default&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <br/>
@@ -72,13 +71,4 @@
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=YasinCaldiran&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
 </div>
 
-<br/>
 
-## 🏆 Trophies
-
-<div align="center">
-  <!-- Ekstra: Başarı Kupaları (Trophies) -->
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=YasinCaldiran&theme=flat&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
-  </a>
-</div>
