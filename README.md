@@ -32,49 +32,28 @@
 
 <br/>
 
-<!-- Tamamen Yenilenmiş, Minimalist ve Geometrik Diller Tablosu -->
+<!-- Canlı ve Orijinal SVG İkonları -->
 <div align="center">
   <h2>⚡ Tech Stack</h2>
   <br>
-  <table align="center">
-    <tr>
-      <td align="center" width="25%"><b>💻 Programming</b></td>
-      <td align="center" width="25%"><b>🌐 Frontend</b></td>
-      <td align="center" width="25%"><b>⚙️ Backend & DB</b></td>
-      <td align="center" width="25%"><b>🛠️ DevOps & Tools</b></td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/C-7928CA?style=for-the-badge&logo=c&logoColor=white" /><br>
-        <img src="https://img.shields.io/badge/C++-FF0080?style=for-the-badge&logo=cplusplus&logoColor=white" /><br>
-        <img src="https://img.shields.io/badge/C%23-7928CA?style=for-the-badge&logo=csharp&logoColor=white" /><br>
-        <img src="https://img.shields.io/badge/Java-FF0080?style=for-the-badge&logo=coffeescript&logoColor=white" /><br>
-        <img src="https://img.shields.io/badge/Python-7928CA?style=for-the-badge&logo=python&logoColor=white" />
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/HTML5-FF0080?style=for-the-badge&logo=html5&logoColor=white" /><br>
-        <img src="https://img.shields.io/badge/CSS3-7928CA?style=for-the-badge&logo=css3&logoColor=white" /><br>
-        <img src="https://img.shields.io/badge/JavaScript-FF0080?style=for-the-badge&logo=javascript&logoColor=white" /><br>
-        <img src="https://img.shields.io/badge/TypeScript-7928CA?style=for-the-badge&logo=typescript&logoColor=white" /><br>
-        <img src="https://img.shields.io/badge/React-FF0080?style=for-the-badge&logo=react&logoColor=white" /><br>
-        <img src="https://img.shields.io/badge/Vue.js-7928CA?style=for-the-badge&logo=vuedotjs&logoColor=white" />
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Node.js-7928CA?style=for-the-badge&logo=nodedotjs&logoColor=white" /><br>
-        <img src="https://img.shields.io/badge/Express.js-FF0080?style=for-the-badge&logo=express&logoColor=white" /><br>
-        <img src="https://img.shields.io/badge/PostgreSQL-7928CA?style=for-the-badge&logo=postgresql&logoColor=white" /><br>
-        <img src="https://img.shields.io/badge/MongoDB-FF0080?style=for-the-badge&logo=mongodb&logoColor=white" /><br>
-        <img src="https://img.shields.io/badge/Firebase-7928CA?style=for-the-badge&logo=firebase&logoColor=white" />
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Git-FF0080?style=for-the-badge&logo=git&logoColor=white" /><br>
-        <img src="https://img.shields.io/badge/GitHub-7928CA?style=for-the-badge&logo=github&logoColor=white" /><br>
-        <img src="https://img.shields.io/badge/Docker-FF0080?style=for-the-badge&logo=docker&logoColor=white" /><br>
-        <img src="https://img.shields.io/badge/NGINX-7928CA?style=for-the-badge&logo=nginx&logoColor=white" /><br>
-        <img src="https://img.shields.io/badge/Linux-FF0080?style=for-the-badge&logo=linux&logoColor=white" />
-      </td>
-    </tr>
-  </table>
+
+  <h3>💻 Programming Languages</h3>
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python" alt="Programming Languages" />
+  
+  <br><br>
+
+  <h3>🌐 Web & Frontend</h3>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue" alt="Frontend" />
+  
+  <br><br>
+
+  <h3>⚙️ Backend & Databases</h3>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,firebase" alt="Backend" />
+  
+  <br><br>
+
+  <h3>🛠️ DevOps & Tools</h3>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,nginx,linux" alt="Tools" />
 </div>
 
 <br/>
@@ -82,8 +61,8 @@
 ## 📈 Activity & Stats
 
 <div align="center">
-  <!-- Sunucu hatasını engellemek için daha stabil olan resmi 'herokuapp' domainine geçildi -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YasinCaldiran&theme=transparent&hide_border=true&title_color=7928CA&text_color=333333&icon_color=FF0080&sideNums=7928CA&sideLabels=333333&ring=FF0080&fire=FF0080" alt="GitHub Streak" />
+  <!-- İstediğin Çizgi Grafiği Geri Eklendi -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YasinCaldiran&bg_color=ffffff&color=333333&line=7928CA&point=FF0080&hide_border=true" height="260" alt="activity graph" />
 </div>
 
 <br/>
