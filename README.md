@@ -12,8 +12,8 @@
   <a href="https://www.linkedin.com/in/ysncldrn/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-ysncldrn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
   </a>
-  <a href="https://github.com/ysncldrn" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-ysncldrn-111?style=for-the-badge&logo=github&logoColor=white" alt="github"/>
+  <a href="https://github.com/YasinCaldiran" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-YasinCaldiran-111?style=for-the-badge&logo=github&logoColor=white" alt="github"/>
   </a>
 
   <br/><br/>
@@ -27,14 +27,13 @@
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ysncldrn&style=flat&color=FF0080&label=Profile+Views" alt="views" />
+  <img src="https://komarev.com/ghpvc/?username=YasinCaldiran&style=flat&color=FF0080&label=Profile+Views" alt="views" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF0080&center=true&vCenter=true&width=400&height=50&lines=⚡+Technologies+%26+Tools+⚡" alt="Tech Stack" />
-  <br/>
+  <h3>⚡ Technologies & Tools ⚡</h3>
   <br/>
   <!-- Ters Piramit (Inverted Pyramid) Dizilimi -->
   <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,ts,js,html,css&perline=9" alt="Top Row" />
@@ -50,19 +49,19 @@
 
 <div align="center">
   <!-- Açık Renkli Aktivite Grafiği (Light Mode) ve YENİ Tema Renkleri (Mor/Pembe Çizgiler) -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ysncldrn&bg_color=ffffff&color=333333&line=7928CA&point=FF0080&hide_border=true" height="260" alt="activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YasinCaldiran&bg_color=ffffff&color=333333&line=7928CA&point=FF0080&hide_border=true" height="260" alt="activity graph" />
 </div>
 
 <br/>
 
 <div align="center">
   <!-- GitHub Genel İstatistikleri (Yeni Temaya Özel Renklendirilmiş) -->
-  <img src="https://github-stats-extended.vercel.app/api?username=ysncldrn&show_icons=true&hide_border=true&title_color=7928CA&icon_color=FF0080&text_color=333333&bg_color=ffffff" alt="GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api?username=YasinCaldiran&show_icons=true&hide_border=true&title_color=7928CA&icon_color=FF0080&text_color=333333&bg_color=ffffff" alt="GitHub Stats" />
 </div>
 
 <br/>
 
 <div align="center">
   <!-- En Çok Kullanılan Diller (Yeni Temaya Özel Renklendirilmiş) -->
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ysncldrn&layout=compact&hide_border=true&title_color=7928CA&text_color=333333&bg_color=ffffff" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=YasinCaldiran&layout=compact&hide_border=true&title_color=7928CA&text_color=333333&bg_color=ffffff" alt="Top Languages" />
 </div>
