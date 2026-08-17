@@ -33,10 +33,10 @@
 <br/>
 
 <div align="center">
-  <!-- Animasyonlu Kategori Başlıkları (Typing Effect) ve Kitaplık/Raf Görünümlü Skill Icons -->
+  <!-- Düzeltilmiş Animasyonlu Başlıklar (Yalnızca başlık yazılır ve ekranda uzun süre bekler) -->
   
   <a href="https://github.com/YasinCaldiran">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7928CA&center=true&vCenter=true&width=400&lines=Programming+Languages;C,+C%2B%2B,+C%23,+Java,+Python" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2000&pause=5000&color=7928CA&center=true&vCenter=true&width=400&lines=Programming+Languages" alt="Typing SVG" />
   </a>
   <br/>
   <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python&perline=5" alt="Langs" />
@@ -44,7 +44,7 @@
   <br/><br/>
 
   <a href="https://github.com/YasinCaldiran">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF0080&center=true&vCenter=true&width=400&lines=Web+and+Frontend;HTML,+CSS,+JS,+TS,+React,+Vue" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2000&pause=5000&color=FF0080&center=true&vCenter=true&width=400&lines=Web+and+Frontend" alt="Typing SVG" />
   </a>
   <br/>
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue&perline=6" alt="Web" />
@@ -52,7 +52,7 @@
   <br/><br/>
 
   <a href="https://github.com/YasinCaldiran">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7928CA&center=true&vCenter=true&width=400&lines=Backend+and+Databases;Node.js,+Express,+Postgres,+MongoDB" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2000&pause=5000&color=7928CA&center=true&vCenter=true&width=400&lines=Backend+and+Databases" alt="Typing SVG" />
   </a>
   <br/>
   <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,firebase&perline=5" alt="DB" />
@@ -60,7 +60,7 @@
   <br/><br/>
 
   <a href="https://github.com/YasinCaldiran">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF0080&center=true&vCenter=true&width=400&lines=DevOps+and+Tools;Git,+Docker,+Nginx,+Linux" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2000&pause=5000&color=FF0080&center=true&vCenter=true&width=400&lines=DevOps+and+Tools" alt="Typing SVG" />
   </a>
   <br/>
   <img src="https://skillicons.dev/icons?i=git,github,docker,nginx,linux&perline=5" alt="Tools" />
@@ -71,8 +71,8 @@
 ## 📈 Activity & Stats
 
 <div align="center">
-  <!-- Açık Renkli Aktivite Grafiği (Doğru kullanıcı adı eklendi) -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YasinCaldiran&bg_color=ffffff&color=333333&line=7928CA&point=FF0080&hide_border=true" height="260" alt="activity graph" />
+  <!-- Hata veren Activity Graph yerine çok daha havalı ve stabil olan GitHub Streak (Aktivite Serisi) İstatistikleri eklendi -->
+  <img src="https://streak-stats.demolab.com/?user=YasinCaldiran&theme=transparent&hide_border=true&title_color=7928CA&text_color=333333&icon_color=FF0080&sideNums=7928CA&sideLabels=333333&ring=FF0080&fire=FF0080" alt="GitHub Streak" />
 </div>
 
 <br/>
