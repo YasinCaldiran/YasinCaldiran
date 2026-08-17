@@ -2,35 +2,34 @@
   <!-- Silindir (Cylinder) hap tasarımı ve Mor'dan Pembeye (Cyberpunk/Neon) Geçiş Renkleri -->
   <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:7928CA,100:FF0080&height=190&section=header&text=Mehmet%20Yasin%20%C3%87ald%C4%B1ran&fontSize=44&fontColor=ffffff&animation=twinkling&desc=%E2%9A%99%EF%B8%8F%20Computer%20Engineering%20Student%20%7C%20Software%20Developer&descSize=16&descAlignY=72" alt="header" />
   
-  <h3>🚀 Dream → Code → Repeat</h3>
-  
-  <br/>
+  <br/><br/>
 
+  <!-- Sosyal Medya & İletişim (Düzenli ve temaya uygun rozetler) -->
   <a href="https://yasincaldiran.com" target="_blank">
-    <img src="https://img.shields.io/badge/Website-yasincaldiran.com-111?style=for-the-badge&logo=google-chrome&logoColor=white" alt="website"/>
+    <img src="https://img.shields.io/badge/Website-yasincaldiran.com-7928CA?style=for-the-badge&logo=google-chrome&logoColor=white" alt="website"/>
   </a>
   <a href="https://www.linkedin.com/in/ysncldrn/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-ysncldrn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
+    <img src="https://img.shields.io/badge/LinkedIn-ysncldrn-FF0080?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
   </a>
   <a href="https://github.com/YasinCaldiran" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-YasinCaldiran-111?style=for-the-badge&logo=github&logoColor=white" alt="github"/>
+    <img src="https://img.shields.io/badge/GitHub-YasinCaldiran-7928CA?style=for-the-badge&logo=github&logoColor=white" alt="github"/>
   </a>
 
   <br/><br/>
 
-  <img src="https://img.shields.io/badge/Role-Software_Developer-7928CA" alt="role"/>
-  <img src="https://img.shields.io/badge/Focus-Clean_Code-FF0080" alt="focus"/>
-  <img src="https://img.shields.io/badge/Interest-System_Design-7928CA" alt="interest"/>
-  <img src="https://img.shields.io/badge/Status-Coding...-FF0080" alt="status"/>
+  <!-- Kişisel Bilgi Rozetleri -->
+  <img src="https://img.shields.io/badge/Role-Software_Developer-FF0080?style=for-the-badge" alt="role"/>
+  <img src="https://img.shields.io/badge/Focus-Clean_Code-7928CA?style=for-the-badge" alt="focus"/>
+  <img src="https://img.shields.io/badge/Interest-System_Design-FF0080?style=for-the-badge" alt="interest"/>
+  <img src="https://img.shields.io/badge/Status-Coding...-7928CA?style=for-the-badge" alt="status"/>
+  
+  <br/><br/>
+
+  <!-- Profil Görüntülenme Sayacı (Tasarıma entegre edildi) -->
+  <img src="https://komarev.com/ghpvc/?username=YasinCaldiran&style=for-the-badge&color=FF0080&label=Profile+Views" alt="views" />
 </div>
 
-<br/>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YasinCaldiran&style=flat&color=FF0080&label=Profile+Views" alt="views" />
-</div>
-
-<br/>
+<br/><br/>
 
 <!-- AÇIK KİTAP TASARIMI (GitHub Markdown okuyucusu için boşluklar düzeltildi) -->
 <div align="center">
