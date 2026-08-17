@@ -33,10 +33,29 @@
 <br/>
 
 <div align="center">
-  <!-- Profesyonel, Modern ve Animasyonlu (Yüzen Kartlar) Tech Stack Grafiği -->
-  <a href="https://github.com/YasinCaldiran">
-    <img src="https://github-readme-tech-stack.vercel.app/api/cards?titleLine=Technologies+%26+Tools&lineCount=3&line1=c,cplusplus,csharp,java,python&line2=html5,css3,javascript,typescript,react,vuedotjs,nodedotjs,express,postgresql,mongodb,firebase&line3=git,github,docker,nginx,linux&theme=transparent&titleColor=7928CA&hideBorder=true" alt="Animated Tech Stack" />
-  </a>
+  <!-- Animasyonlu Kategori Başlıkları (scaleIn) ve Skill Icons -->
+  
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=50&text=Programming%20Languages&fontSize=22&fontColor=7928CA&animation=scaleIn" alt="Languages" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python" alt="Langs" />
+  
+  <br/><br/>
+
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=50&text=Web%20%26%20Frontend&fontSize=22&fontColor=FF0080&animation=scaleIn" alt="Frontend" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue" alt="Web" />
+  
+  <br/><br/>
+
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=50&text=Backend%20%26%20Databases&fontSize=22&fontColor=7928CA&animation=scaleIn" alt="Backend" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,firebase" alt="DB" />
+  
+  <br/><br/>
+
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=50&text=DevOps%20%26%20Tools&fontSize=22&fontColor=FF0080&animation=scaleIn" alt="Tools" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,nginx,linux" alt="Tools" />
 </div>
 
 <br/>
