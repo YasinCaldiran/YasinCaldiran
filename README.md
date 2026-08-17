@@ -50,8 +50,35 @@
 
 <br/>
 
-## 📈 Activity
+## 📈 Activity & Stats
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YasinCaldiran&bg_color=0d1117&color=8b949e&line=22c55e&point=0ea5e9&hide_border=true" height="260" alt="activity graph" />
+  <!-- Açık Renkli Aktivite Grafiği (Light Mode) -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YasinCaldiran&bg_color=ffffff&color=333333&line=22c55e&point=0ea5e9&hide_border=true" height="260" alt="activity graph" />
+</div>
+
+<br/>
+
+<div align="center">
+  <!-- Ekstra: GitHub Genel İstatistikleri ve Seri (Streak) Grafiği (Açık Renk Temalı) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=YasinCaldiran&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=YasinCaldiran&theme=default&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<br/>
+
+<div align="center">
+  <!-- Ekstra: En Çok Kullanılan Diller (Açık Renk Temalı) -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YasinCaldiran&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
+</div>
+
+<br/>
+
+## 🏆 Trophies
+
+<div align="center">
+  <!-- Ekstra: Başarı Kupaları (Trophies) -->
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=YasinCaldiran&theme=flat&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+  </a>
 </div>
