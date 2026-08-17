@@ -4,36 +4,34 @@
   
   <br/><br/>
 
-  <!-- Sosyal Medya & İletişim (Düzenli ve temaya uygun rozetler) -->
+  <!-- SATIR 1: Kısa, Öz ve Tamamen Renkli Sosyal Medya Rozetleri -->
   <a href="https://yasincaldiran.com" target="_blank">
-    <img src="https://img.shields.io/badge/Website-yasincaldiran.com-7928CA?style=for-the-badge&logo=google-chrome&logoColor=white" alt="website"/>
+    <img src="https://img.shields.io/badge/-Portfolio-7928CA?style=for-the-badge&logo=google-chrome&logoColor=white" alt="website"/>
   </a>
   <a href="https://www.linkedin.com/in/ysncldrn/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-ysncldrn-FF0080?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
+    <img src="https://img.shields.io/badge/-LinkedIn-FF0080?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
   </a>
   <a href="https://github.com/YasinCaldiran" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-YasinCaldiran-7928CA?style=for-the-badge&logo=github&logoColor=white" alt="github"/>
+    <img src="https://img.shields.io/badge/-GitHub-7928CA?style=for-the-badge&logo=github&logoColor=white" alt="github"/>
   </a>
 
   <br/><br/>
 
-  <!-- Kişisel Bilgi Rozetleri -->
-  <img src="https://img.shields.io/badge/Role-Software_Developer-FF0080?style=for-the-badge" alt="role"/>
-  <img src="https://img.shields.io/badge/Focus-Clean_Code-7928CA?style=for-the-badge" alt="focus"/>
-  <img src="https://img.shields.io/badge/Interest-System_Design-FF0080?style=for-the-badge" alt="interest"/>
-  <img src="https://img.shields.io/badge/Status-Coding...-7928CA?style=for-the-badge" alt="status"/>
+  <!-- SATIR 2: Simetrik (3 Adet) ve Kısa Etiketler -->
+  <img src="https://img.shields.io/badge/-Software_Dev-FF0080?style=for-the-badge&logo=codeforces&logoColor=white" alt="role"/>
+  <img src="https://img.shields.io/badge/-Clean_Code-7928CA?style=for-the-badge&logo=sonarlint&logoColor=white" alt="focus"/>
+  <img src="https://img.shields.io/badge/-Architecture-FF0080?style=for-the-badge&logo=databricks&logoColor=white" alt="interest"/>
   
   <br/><br/>
 
-  <!-- Profil Görüntülenme Sayacı (Tasarıma entegre edildi) -->
-  <img src="https://komarev.com/ghpvc/?username=YasinCaldiran&style=for-the-badge&color=FF0080&label=Profile+Views" alt="views" />
+  <!-- SATIR 3: Görüntülenme Sayacı (Tam uyumlu neon renkler) -->
+  <img src="https://komarev.com/ghpvc/?username=YasinCaldiran&style=for-the-badge&color=7928CA&label=VIEWS&labelColor=FF0080" alt="views" />
 </div>
 
 <br/><br/>
 
-<!-- AÇIK KİTAP TASARIMI (GitHub Markdown okuyucusu için boşluklar düzeltildi) -->
+<!-- AÇIK KİTAP TASARIMI (Başlık tamamen kaldırıldı) -->
 <div align="center">
-  <h2>📖 The Developer's Chronicle</h2>
   <table align="center">
     <tr>
       <td align="center" valign="top" width="380">
