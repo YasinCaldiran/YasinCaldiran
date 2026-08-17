@@ -1,5 +1,5 @@
 <!-- ========================================================= -->
-<!--                  MEHMET YASIN ÇALDIRAN                    -->
+<!--                 MEHMET YASIN ÇALDIRAN                     -->
 <!-- ========================================================= -->
 
 <div align="center">
@@ -11,7 +11,7 @@
 />
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2600&pause=900&color=22C55E&center=true&vCenter=true&width=680&height=45&lines=Backend+%E2%80%A2+Frontend+%E2%80%A2+Databases;Algorithms+%E2%80%A2+OOP+%E2%80%A2+System+Design;Clean+Code+%E2%80%A2+Maintainable+Software;%F0%9F%9A%80+Learn+%E2%86%92+Build+%E2%86%92+Improve+%E2%86%92+Repeat"
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2600&pause=900&color=22C55E&center=true&vCenter=true&width=800&height=45&lines=Backend+%E2%80%A2+Frontend+%E2%80%A2+Databases;Web+Security+%E2%80%A2+Pen-Testing+%E2%80%A2+Clean+Code;Minimalist+UI%2FUX+%E2%80%A2+Viewzy;%F0%9F%9A%80+Learn+%E2%86%92+Build+%E2%86%92+Improve+%E2%86%92+Repeat"
   alt="Typing Animation"
 />
 
@@ -21,7 +21,7 @@
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Student_Developer-22C55E?style=flat-square" alt="Student Developer"/> <img src="https://img.shields.io/badge/Clean_Code-0EA5E9?style=flat-square" alt="Clean Code"/> <img src="https://img.shields.io/badge/System_Design-22C55E?style=flat-square" alt="System Design"/>
+<img src="https://img.shields.io/badge/Student_Developer-22C55E?style=flat-square" alt="Student Developer"/> <img src="https://img.shields.io/badge/Web_Security-0EA5E9?style=flat-square" alt="Web Security"/> <img src="https://img.shields.io/badge/System_Design-22C55E?style=flat-square" alt="System Design"/>
 
 </div>
 
@@ -29,12 +29,13 @@
 
 ## 👨‍💻 About Me
 
-I'm **Mehmet Yasin Çaldıran**, a **3rd-year Computer Engineering student** focused on software development and building real-world projects.
+I'm **Mehmet Yasin Çaldıran**, a **3rd-year Computer Engineering student** focused on software development, security, and building real-world projects.
 
 - 🧠 Improving my knowledge of **algorithms, OOP and system thinking**
 - ⚙️ Interested in **backend development, APIs, databases and data modeling**
-- 🎨 Building experience in **frontend development and UI/UX**
-- 🏗️ Interested in **clean architecture and maintainable software**
+- 🛡️ Exploring **web application security**, specifically **penetration testing** for admin panels and auditing vulnerabilities
+- 🎨 Founder & Designer at **Viewzy**, focusing on **minimalist aesthetics** (clean white backgrounds, simple geometric elements) and modern UI/UX
+- 🏗️ Dedicated to **clean architecture and maintainable software**
 - 🔁 Mindset: **Learn → Build → Refactor → Improve**
 
 ---
@@ -61,9 +62,9 @@ I'm **Mehmet Yasin Çaldıran**, a **3rd-year Computer Engineering student** foc
 
 <div align="center">
 
-`Algorithms` • `Object-Oriented Programming` • `Backend Development` • `System Design`
+`Algorithms` • `Web Application Security` • `Backend Development` • `System Design`
 
-`REST APIs` • `Database Design` • `Full-Stack Development` • `Clean Architecture`
+`Penetration Testing` • `Database Design` • `Minimalist UI/UX` • `Clean Architecture`
 
 </div>
 
@@ -89,8 +90,10 @@ I'm **Mehmet Yasin Çaldıran**, a **3rd-year Computer Engineering student** foc
 |:---|:---|
 | 🎓 **Education** | Computer Engineering — 3rd Year |
 | 💻 **Role** | Student Developer |
-| ⚙️ **Development** | Backend & Frontend |
-| 🧠 **Interests** | Algorithms, OOP, Databases, System Design |
+| 🛡️ **Security** | Pen-Testing & Vulnerability Auditing |
+| 🎨 **Design** | Viewzy (Minimalist Brand & UI) |
+| 💻 **Workspace** | Casper Nirvana NB S100 |
+| 🧠 **Interests** | Algorithms, Security, System Design |
 | 🏗️ **Focus** | Clean & Maintainable Software |
 | 🌐 **Website** | [yasincaldiran.com](https://yasincaldiran.com) |
 
