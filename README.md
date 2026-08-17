@@ -41,19 +41,19 @@
   
   <br/><br/>
 
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=50&text=Web%20%26%20Frontend&fontSize=22&fontColor=FF0080&animation=scaleIn" alt="Frontend" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=50&text=Web%20and%20Frontend&fontSize=22&fontColor=FF0080&animation=scaleIn" alt="Frontend" />
   <br/>
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue" alt="Web" />
   
   <br/><br/>
 
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=50&text=Backend%20%26%20Databases&fontSize=22&fontColor=7928CA&animation=scaleIn" alt="Backend" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=50&text=Backend%20and%20Databases&fontSize=22&fontColor=7928CA&animation=scaleIn" alt="Backend" />
   <br/>
   <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,firebase" alt="DB" />
   
   <br/><br/>
 
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=50&text=DevOps%20%26%20Tools&fontSize=22&fontColor=FF0080&animation=scaleIn" alt="Tools" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=50&text=DevOps%20and%20Tools&fontSize=22&fontColor=FF0080&animation=scaleIn" alt="Tools" />
   <br/>
   <img src="https://skillicons.dev/icons?i=git,github,docker,nginx,linux" alt="Tools" />
 </div>
