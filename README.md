@@ -1,88 +1,82 @@
-<!-- ========================================================= -->
-<!--                 MEHMET YASIN ÇALDIRAN                     -->
-<!-- ========================================================= -->
-
+<!-- Header Animasyonu -->
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Merhaba,%20Ben%20[Adın]!&fontSize=50&animation=fadeIn" alt="Header" />
+</div>
 
-<img
-  width="100%"
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:22c55e&height=175&section=header&text=Mehmet%20Yasin%20%C3%87ald%C4%B1ran&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=3rd%20Year%20Computer%20Engineering%20Student&descSize=16&descAlignY=58"
-  alt="Mehmet Yasin Çaldıran"
-/>
+<!-- Animasyonlu Yazı (Typing SVG) -->
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;A%C3%A7%C4%B1k+Kaynak+Geli%C5%9Ftiricisi;S%C3%BCrekli+%C3%96%C4%9Frenen+Biri" alt="Typing SVG" />
+  </a>
+</div>
 
-<img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2600&pause=900&color=22C55E&center=true&vCenter=true&width=800&height=45&lines=Backend+%E2%80%A2+Frontend+%E2%80%A2+Databases;Web+Security+%E2%80%A2+Pen-Testing+%E2%80%A2+Clean+Code;Minimalist+UI%2FUX+%E2%80%A2+Viewzy;%F0%9F%9A%80+Learn+%E2%86%92+Build+%E2%86%92+Improve+%E2%86%92+Repeat"
-  alt="Typing Animation"
-/>
+<br/>
 
-<a href="https://yasincaldiran.com"><img src="https://img.shields.io/badge/Website-yasincaldiran.com-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/></a>
-<a href="https://www.linkedin.com/in/ysncldrn/"><img src="https://img.shields.io/badge/LinkedIn-ysncldrn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://github.com/YasinCaldiran"><img src="https://img.shields.io/badge/GitHub-YasinCaldiran-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<!-- Ziyaretçi Sayacı -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profil%20G%C3%B6r%C3%BCnt%C3%BClenme&color=0e75b6&style=flat" alt="Visitor Badge" />
+</div>
 
-<br/><br/>
+<br/>
 
-<img src="https://img.shields.io/badge/Student_Developer-22C55E?style=flat-square" alt="Student Developer"/> <img src="https://img.shields.io/badge/Web_Security-0EA5E9?style=flat-square" alt="Web Security"/> <img src="https://img.shields.io/badge/System_Design-22C55E?style=flat-square" alt="System Design"/>
-
+<!-- Sosyal Medya Rozetleri (Badges) -->
+<div align="center">
+  <a href="https://twitter.com/yourusername"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
+  <a href="https://linkedin.com/in/yourusername"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:senin.email@ornek.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </div>
 
 ---
 
-## 👨‍💻 About Me
+### 👨‍💻 Hakkımda
 
-I'm **Mehmet Yasin Çaldıran**, a **3rd-year Computer Engineering student** focused on software development, security, and building real-world projects.
-
-- 🧠 Improving my knowledge of **algorithms, OOP and system thinking**
-- ⚙️ Interested in **backend development, APIs, databases and data modeling**
-- 🛡️ Exploring **web application security**, specifically **penetration testing** for admin panels and auditing vulnerabilities
-- 🎨 Founder & Designer at **Viewzy**, focusing on **minimalist aesthetics** (clean white backgrounds, simple geometric elements) and modern UI/UX
-- 🏗️ Dedicated to **clean architecture and maintainable software**
-- 🔁 Mindset: **Learn → Build → Refactor → Improve**
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
+- 🔭 Şu anda **Harika Projeler** üzerinde çalışıyorum
+- 🌱 Şu anda **React ve Node.js** teknolojilerini derinlemesine öğreniyorum
+- 👯 **Açık Kaynak** projelerinde işbirliği yapmak istiyorum
+- 🤔 **Yapay Zeka ve Makine Öğrenimi** konularında yardıma açığım
+- 💬 Bana **JavaScript, Web Geliştirme, Tasarım** hakkında her şeyi sorabilirsiniz
+- 📫 Bana ulaşmak için: **senin.email@ornek.com**
+- ⚡ İlginç bilgi: **Gece geç saatlerde kod yazmayı ve bol kahve içmeyi severim!**
 
 ---
 
-## ⚡ Current Focus
+### 🛠️ Teknolojiler ve Araçlar
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <!-- Aşağıdaki yetenekleri kendine göre değiştirebilirsin -->
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,mongodb,postgresql,git,docker,linux,aws" />
+  </a>
+</p>
+
+---
+
+### 📊 GitHub İstatistikleri (Animasyonlu)
+
+<!-- Not: İstatistiklerin bozuk görünmemesi için örnek olarak "abhisheknaiidu" kullanılmıştır. Kendi kullanıcı adınızla değiştirmeyi unutmayın! -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=radium&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhisheknaiidu&theme=radium&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<br/>
 
 <div align="center">
-
-`Algorithms` • `Web Application Security` • `Backend Development` • `System Design`
-
-`Penetration Testing` • `Database Design` • `Minimalist UI/UX` • `Clean Architecture`
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhisheknaiidu&layout=compact&theme=radium&hide_border=true" alt="Top Languages" />
 </div>
 
 ---
 
-## 📈 Contribution Activity
+### 🏆 GitHub Kupaları
 
 <div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=abhisheknaiidu&theme=radium&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
+  </a>
+</div>
 
-<img
-  width="100%"
-  src="https://github-readme-activity-graph.vercel.app/graph?username=YasinCaldiran&bg_color=00000000&color=8b949e&line=22c55e&point=0ea5e9&area=true&area_color=22c55e&hide_border=true&custom_title=Contribution%20Activity"
-  alt="Contribution Activity"
-/>
+<br/>
 
-
-### `Dream → Code → Improve → Repeat`
-
-<img
-  src="https://komarev.com/ghpvc/?username=YasinCaldiran&style=flat-square&color=22c55e&label=Profile+Views"
-  alt="Profile Views"
-/>
-
-<br/><br/>
-
-<img
-  width="100%"
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:22c55e,100:0ea5e9&height=95&section=footer"
-  alt="Footer"
-/>
-
+<div align="center">
+  <i>Bu profili beğendin mi? Bir yıldız bırakmayı unutma! ✨</i>
 </div>
