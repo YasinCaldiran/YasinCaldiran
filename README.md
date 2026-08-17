@@ -1,127 +1,79 @@
 <div align="center">
 
-  <!-- Header Branding -->
-  <h1>Mehmet Yasin Çaldıran</h1>
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:22c55e&height=190&section=header&text=Mehmet%20Yasin%20%C3%87ald%C4%B1ran&fontSize=44&fontColor=ffffff&animation=fadeIn&desc=2nd%20Year%20Computer%20Engineering%20Student&descSize=16&descAlignY=72"
+    alt="header"
+  />
+
+  <h3>🚀 Dream → Code → Repeat</h3>
+
   <p>
-    <b>Computer Engineering Student (Year 3)</b> &nbsp;•&nbsp; 
-    <b>Backend Systems & Software Architecture</b>
+    <b>Backend • Frontend • Databases</b><br/>
+    Algorithms • OOP • System Design
   </p>
 
-  <!-- Interactive Terminal Monospace Line -->
-  <a href="https://yasincaldiran.com">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&pause=1500&color=58A6FF&center=true&vCenter=true&width=650&lines=Distributed+Systems+%26+Backend+Architecture;Clean+Code+Practices+%26+OOP+Design+Patterns;Relational+%26+NoSQL+Data+Engineering;Continuous+Learning+%26+High-Performance+Computing" alt="Specializations" />
+  <a href="https://yasincaldiran.com" target="_blank">
+    <img src="https://img.shields.io/badge/Website-yasincaldiran.com-111?style=for-the-badge&logo=google-chrome&logoColor=white" alt="website"/>
+  </a>
+  <a href="https://www.linkedin.com/in/ysncldrn/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-ysncldrn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
+  </a>
+  <a href="https://github.com/YasinCaldiran" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-YasinCaldiran-111?style=for-the-badge&logo=github&logoColor=white" alt="github"/>
   </a>
 
   <br/><br/>
 
-  <!-- Stealth Navigation Badges -->
-  <a href="https://yasincaldiran.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-161b22?style=flat-square&logo=google-chrome&logoColor=58a6ff" alt="Portfolio" />
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/ysncldrn/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-161b22?style=flat-square&logo=linkedin&logoColor=58a6ff" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/YasinCaldiran" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-161b22?style=flat-square&logo=github&logoColor=58a6ff" alt="GitHub" />
-  </a>
+  <img src="https://img.shields.io/badge/Role-Student_Developer-22c55e" alt="role"/>
+  <img src="https://img.shields.io/badge/Focus-Clean_Code-0ea5e9" alt="focus"/>
+  <img src="https://img.shields.io/badge/Interest-System_Design-22c55e" alt="interest"/>
+  <img src="https://img.shields.io/badge/Status-Coding...-0ea5e9" alt="status"/>
 
 </div>
 
-<br/>
-
 ---
 
-### 🏛️ Engineering Profile
-
-<div style="border: 1px solid #30363d; border-radius: 6px; padding: 18px; background-color: #0d1117;">
-
-  <p>
-    <b>Core Focus:</b> Developing robust, scalable backend systems with an emphasis on maintainability, data integrity, and low-latency communication.
-  </p>
-
-  <p>
-    ▸ <b>Architecture & Logic:</b> Focused on OOP principles, design patterns, algorithmic efficiency, and modular codebases.<br/>
-    ▸ <b>Data Engineering:</b> Designing structured schemas across relational (PostgreSQL) and NoSQL (MongoDB, Firebase) engines.<br/>
-    ▸ <b>Full-Stack Integration:</b> Pairing reliable backend microservices with responsive, modern web interfaces.<br/>
-    ▸ <b>Engineering Philosophy:</b> <code>Analyze deeply</code> ➔ <code>Architect cleanly</code> ➔ <code>Iterate with precision</code>.
-  </p>
-
+## 🚀 About Me
+<div style="border:1px solid #30363d; border-radius:12px; padding:14px;">
+  <b>Purpose-driven student developer mindset</b><br/><br/>
+  • 🧠 Building projects to master <b>algorithms, OOP, and system thinking</b><br/>
+  • ⚙️ Interested in <b>backend logic</b>, clean APIs, and <b>data modeling</b><br/>
+  • 🎨 Care about <b>UI/UX</b> and maintainable architecture<br/>
+  • 🔁 Mindset: <b>learn fast → build → refactor → repeat</b>
 </div>
 
-<br/>
-
 ---
 
-### 💻 Technical Stack & Tooling
-
-<table width="100%">
-  <thead>
-    <tr>
-      <th width="30%" align="left">Domain</th>
-      <th width="70%" align="left">Technologies</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><b>Core Languages</b></td>
-      <td>
-        <img src="https://skillicons.dev/icons?i=java,python,cs,cpp,c&theme=dark" alt="Languages" />
-      </td>
-    </tr>
-    <tr>
-      <td><b>Backend & APIs</b></td>
-      <td>
-        <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,firebase&theme=dark" alt="Backend" />
-      </td>
-    </tr>
-    <tr>
-      <td><b>Frontend Engineering</b></td>
-      <td>
-        <img src="https://skillicons.dev/icons?i=ts,js,react,vue,html,css&theme=dark" alt="Frontend" />
-      </td>
-    </tr>
-    <tr>
-      <td><b>Infrastructure & Tools</b></td>
-      <td>
-        <img src="https://skillicons.dev/icons?i=docker,nginx,linux,git,github&theme=dark" alt="Infrastructure" />
-      </td>
-    </tr>
-  </tbody>
-</table>
-
-<br/>
-
----
-
-### 📊 GitHub Analytics & Activity
+## 🛠️ Tech Stack 
 
 <div align="center">
 
-  <table>
-    <tr>
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=YasinCaldiran&show_icons=true&theme=transparent&hide_border=true&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="GitHub Stats" width="100%" />
-      </td>
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YasinCaldiran&layout=compact&theme=transparent&hide_border=true&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" width="100%" />
-      </td>
-    </tr>
-  </table>
+| Category | Technologies |
+|---|---|
+| 💻 **Programming Languages** | <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python&perline=10" alt="langs" /> |
+| 🌐 **Web Basics** | <img src="https://skillicons.dev/icons?i=html,css,js,ts&perline=10" alt="web" /> |
+| ⚛️ **Frontend** | <img src="https://skillicons.dev/icons?i=react,vue&perline=10" alt="frontend" /> |
+| ⚙️ **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,express&perline=10" alt="backend" /> |
+| 🗄️ **Databases / BaaS** | <img src="https://skillicons.dev/icons?i=postgres,mongodb,firebase&perline=10" alt="db" /> |
+| 🧰 **Tools / DevOps** | <img src="https://skillicons.dev/icons?i=git,github,docker,nginx&perline=10" alt="tools" /> |
+| 🐧 **OS** | <img src="https://skillicons.dev/icons?i=linux&perline=10" alt="os" /> |
 
-  <br/>
+</div>
+## 📈 Activity (Line Graph)
 
+<div align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=YasinCaldiran&bg_color=00000000&color=8b949e&line=58a6ff&point=ffffff&hide_border=true"
-    width="100%"
-    alt="Activity Graph"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=YasinCaldiran&bg_color=0d1117&color=8b949e&line=22c55e&point=0ea5e9&hide_border=true"
+    height="260"
+    alt="activity graph"
   />
-
 </div>
 
-<br/>
+---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YasinCaldiran&style=flat-square&color=58a6ff&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img
+    src="https://komarev.com/ghpvc/?username=YasinCaldiran&style=flat&color=22c55e&label=Profile+Views"
+    alt="views"
+  />
 </div>
