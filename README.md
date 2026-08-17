@@ -44,17 +44,6 @@ I'm **Mehmet Yasin Çaldıran**, a **3rd-year Computer Engineering student** foc
 
 <div align="center">
 
-| Category | Technologies |
-|:---|:---:|
-| 💻 **Languages** | <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python&theme=dark&perline=10" alt="Languages"/> |
-| 🌐 **Web** | <img src="https://skillicons.dev/icons?i=html,css,js,ts&theme=dark&perline=10" alt="Web"/> |
-| ⚛️ **Frontend** | <img src="https://skillicons.dev/icons?i=react,vue&theme=dark&perline=10" alt="Frontend"/> |
-| ⚙️ **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark&perline=10" alt="Backend"/> |
-| 🗄️ **Databases** | <img src="https://skillicons.dev/icons?i=postgres,mongodb,firebase&theme=dark&perline=10" alt="Databases"/> |
-| 🧰 **Tools / DevOps** | <img src="https://skillicons.dev/icons?i=git,github,docker,nginx&theme=dark&perline=10" alt="Tools"/> |
-| 🖥️ **Environment** | <img src="https://skillicons.dev/icons?i=linux,vscode,visualstudio&theme=dark&perline=10" alt="Environment"/> |
-
-</div>
 
 ---
 
@@ -80,26 +69,6 @@ I'm **Mehmet Yasin Çaldıran**, a **3rd-year Computer Engineering student** foc
   alt="Contribution Activity"
 />
 
-</div>
-
----
-
-## 📌 Profile
-
-| | |
-|:---|:---|
-| 🎓 **Education** | Computer Engineering — 3rd Year |
-| 💻 **Role** | Student Developer |
-| 🛡️ **Security** | Pen-Testing & Vulnerability Auditing |
-| 🎨 **Design** | Viewzy (Minimalist Brand & UI) |
-| 💻 **Workspace** | Casper Nirvana NB S100 |
-| 🧠 **Interests** | Algorithms, Security, System Design |
-| 🏗️ **Focus** | Clean & Maintainable Software |
-| 🌐 **Website** | [yasincaldiran.com](https://yasincaldiran.com) |
-
----
-
-<div align="center">
 
 ### `Dream → Code → Improve → Repeat`
 
