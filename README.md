@@ -61,15 +61,15 @@
 
 <div align="center">
   <!-- Ekstra: GitHub Genel İstatistikleri ve Seri (Streak) Grafiği (Açık Renk Temalı) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=YasinCaldiran&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=YasinCaldiran&theme=default&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-stats-extended.vercel.app/api?username=YasinCaldiran&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YasinCaldiran&theme=default&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <br/>
 
 <div align="center">
   <!-- Ekstra: En Çok Kullanılan Diller (Açık Renk Temalı) -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YasinCaldiran&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=YasinCaldiran&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
 </div>
 
 <br/>
